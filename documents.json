@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "model": [
+      "SR22"
+    ],
+    "title": "Checklist SR22 G1/G2",
+    "kind": "Checklist",
+    "edition": "2011 · G1/G2",
+    "url": "documents/doc-01.pdf",
+    "size": 0.4
+  },
+  {
+    "id": 2,
+    "model": [
+      "SR20",
+      "SR22",
+      "SR22T"
+    ],
+    "title": "Cirrus Perspective FOM",
+    "kind": "FOM",
+    "edition": "2013 · Perspective",
+    "url": "documents/doc-02.pdf",
+    "size": 5.1
+  },
+  {
+    "id": 3,
+    "model": [
+      "SR20",
+      "SR22",
+      "SR22T"
+    ],
+    "title": "FOM — Perfil de aproximação",
+    "kind": "FOM",
+    "edition": "2007 · Referência",
+    "url": "documents/doc-03.pdf",
+    "size": 0.1
+  },
+  {
+    "id": 4,
+    "model": [
+      "SR22T"
+    ],
+    "title": "SR22T G7 Pilot Information Manual",
+    "kind": "Manual",
+    "edition": "2023 · Touch+",
+    "url": "documents/doc-04.pdf",
+    "size": 4.9
+  },
+  {
+    "id": 5,
+    "model": [
+      "SR22T"
+    ],
+    "title": "SR22T POH Brasil Perspective+",
+    "kind": "POH",
+    "edition": "2020 · Brasil",
+    "url": "documents/doc-05.pdf",
+    "size": 6.4
+  },
+  {
+    "id": 6,
+    "model": [
+      "SR22T"
+    ],
+    "title": "SR22T POH Brasil",
+    "kind": "POH",
+    "edition": "2010 · Brasil",
+    "url": "documents/doc-06.pdf",
+    "size": 5.6
+  },
+  {
+    "id": 7,
+    "model": [
+      "MC01"
+    ],
+    "title": "Montaer MC01 — Checklist PS-DZA",
+    "kind": "Checklist",
+    "edition": "Mar/2026 · Rev. 4",
+    "url": "documents/doc-07.pdf",
+    "size": 0.7
+  },
+  {
+    "id": 8,
+    "model": [
+      "MC01"
+    ],
+    "title": "Montaer MC01 — Checklist PS-DZB",
+    "kind": "Checklist",
+    "edition": "Mar/2026 · Rev. 4",
+    "url": "documents/doc-08.pdf",
+    "size": 0.7
+  },
+  {
+    "id": 9,
+    "model": [
+      "MC01"
+    ],
+    "title": "Montaer MC01 Ground School",
+    "kind": "Estudo",
+    "edition": "EPEAC",
+    "url": "documents/doc-09.pdf",
+    "size": 4.7
+  },
+  {
+    "id": 10,
+    "model": [
+      "MC01"
+    ],
+    "title": "Rotax 912 — Manual de operação",
+    "kind": "Motor",
+    "edition": "2023 · Série 912",
+    "url": "documents/doc-10.pdf",
+    "size": 4.3
+  },
+  {
+    "id": 11,
+    "model": [
+      "MC01"
+    ],
+    "title": "Montaer MC01 — POH PS-DZA",
+    "kind": "POH",
+    "edition": "2025 · Rev. 09",
+    "url": "documents/doc-11.pdf",
+    "size": 4.7
+  },
+  {
+    "id": 12,
+    "model": [
+      "SR20"
+    ],
+    "title": "Cirrus SR20 POH",
+    "kind": "POH",
+    "edition": "2003 · Rev. A3",
+    "url": "documents/doc-12.pdf",
+    "size": 7.2
+  },
+  {
+    "id": 13,
+    "model": [
+      "SR20",
+      "SR22"
+    ],
+    "title": "Garmin Cirrus Perspective — Cockpit Guide",
+    "kind": "Aviônicos",
+    "edition": "2009 · Rev. A",
+    "url": "documents/doc-13.pdf",
+    "size": 8.3
+  }
+]

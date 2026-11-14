@@ -2184,6 +2184,1982 @@
       "ref": "Checklist PS-DZA · Mar/2026 · Rev.4",
       "page": 2,
       "doc": 7
+    },
+    {
+      "id": "q-ck-v6-SR22-10-0",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “External Power (If applicable)”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “External Power (If applicable)”?"
+      },
+      "options": [
+        "CONNECT",
+        "CLEAR",
+        "CHECK",
+        "FULL FORWARD"
+      ],
+      "answer": "CONNECT",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-1",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Brakes”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Brakes”?"
+      },
+      "options": [
+        "HOLD",
+        "OPEN ¼ INCH",
+        "CONNECT",
+        "FULL RICH"
+      ],
+      "answer": "HOLD",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-2",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Bat Master Switches”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Bat Master Switches”?"
+      },
+      "options": [
+        "ON (Check Volts)",
+        "RETARD (to maintain 1000 RPM)",
+        "OPEN ¼ INCH",
+        "CHECK"
+      ],
+      "answer": "ON (Check Volts)",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-3",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Strobe Lights”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Strobe Lights”?"
+      },
+      "options": [
+        "ON",
+        "FULL RICH",
+        "CLEAR",
+        "FULL FORWARD"
+      ],
+      "answer": "ON",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-4",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Mixture”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "FULL RICH",
+        "ON",
+        "FULL FORWARD",
+        "ON (Check Volts)"
+      ],
+      "answer": "FULL RICH",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-5",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Power Lever”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "FULL FORWARD",
+        "CONNECT",
+        "ON",
+        "PRIME, then BOOST"
+      ],
+      "answer": "FULL FORWARD",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-6",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Fuel Pump”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Fuel Pump”?"
+      },
+      "options": [
+        "PRIME, then BOOST",
+        "CLEAR",
+        "OPEN ¼ INCH",
+        "RETARD (to maintain 1000 RPM)"
+      ],
+      "answer": "PRIME, then BOOST",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-7",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Propeller Area”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Propeller Area”?"
+      },
+      "options": [
+        "CLEAR",
+        "FULL FORWARD",
+        "FULL RICH",
+        "HOLD"
+      ],
+      "answer": "CLEAR",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-8",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Power Lever”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "OPEN ¼ INCH",
+        "CHECK",
+        "FULL RICH",
+        "CONNECT"
+      ],
+      "answer": "OPEN ¼ INCH",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-9",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Ignition Switch”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Ignition Switch”?"
+      },
+      "options": [
+        "START (Release after engine starts)",
+        "OPEN ¼ INCH",
+        "CLEAR",
+        "ON"
+      ],
+      "answer": "START (Release after engine starts)",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-10",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Power Lever”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "RETARD (to maintain 1000 RPM)",
+        "FULL FORWARD",
+        "ON",
+        "ON (Check Volts)"
+      ],
+      "answer": "RETARD (to maintain 1000 RPM)",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-10-11",
+      "model": "SR22",
+      "category": "Checklists · Partida do motor · G1/G2",
+      "q": {
+        "pt": "No checklist “Partida do motor · G1/G2”, qual ação está associada a “Oil Pressure”?",
+        "en": "In “Partida do motor · G1/G2”, what action corresponds to “Oil Pressure”?"
+      },
+      "options": [
+        "CHECK",
+        "RETARD (to maintain 1000 RPM)",
+        "PRIME, then BOOST",
+        "ON"
+      ],
+      "answer": "CHECK",
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-0",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Doors”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Doors”?"
+      },
+      "options": [
+        "LATCHED",
+        "SECURE",
+        "SET",
+        "CHECK"
+      ],
+      "answer": "LATCHED",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-1",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “CAPS Handle”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “CAPS Handle”?"
+      },
+      "options": [
+        "Verify Pin Removed",
+        "AS REQUIRED",
+        "CHECK",
+        "SET"
+      ],
+      "answer": "Verify Pin Removed",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-2",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Seat Belts and Shoulder Harness”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Seat Belts and Shoulder Harness”?"
+      },
+      "options": [
+        "SECURE",
+        "LATCHED",
+        "BOOST",
+        "FULLEST TANK"
+      ],
+      "answer": "SECURE",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-3",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Air Conditioner”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Air Conditioner”?"
+      },
+      "options": [
+        "AS DESIRED",
+        "CONFIRM",
+        "Verify Pin Removed",
+        "SET 50% & CHECK"
+      ],
+      "answer": "AS DESIRED",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-4",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Fuel Quantity”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Fuel Quantity”?"
+      },
+      "options": [
+        "CONFIRM",
+        "BOOST",
+        "SET 50% & CHECK",
+        "SET for Takeoff"
+      ],
+      "answer": "CONFIRM",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-5",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Fuel Selector”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Fuel Selector”?"
+      },
+      "options": [
+        "FULLEST TANK",
+        "CHECK",
+        "SECURE",
+        "AS REQUIRED"
+      ],
+      "answer": "FULLEST TANK",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-6",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Fuel Pump”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Fuel Pump”?"
+      },
+      "options": [
+        "BOOST",
+        "Verify Pin Removed",
+        "LATCHED",
+        "CHECK"
+      ],
+      "answer": "BOOST",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-7",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Mixture”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "Verify Pin Removed",
+        "BOOST",
+        "CHECK"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-8",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Flaps”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Flaps”?"
+      },
+      "options": [
+        "SET 50% & CHECK",
+        "AS REQUIRED",
+        "CONFIRM",
+        "Verify Pin Removed"
+      ],
+      "answer": "SET 50% & CHECK",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-9",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Transponder”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Transponder”?"
+      },
+      "options": [
+        "SET",
+        "SET 50% & CHECK",
+        "FULLEST TANK",
+        "CONFIRM"
+      ],
+      "answer": "SET",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-10",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Autopilot”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Autopilot”?"
+      },
+      "options": [
+        "CHECK",
+        "SET",
+        "BOOST",
+        "Verify Pin Removed"
+      ],
+      "answer": "CHECK",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-11-11",
+      "model": "SR22",
+      "category": "Checklists · Antes da decolagem · G1/G2",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · G1/G2”, qual ação está associada a “Navigation Radios/GPS”?",
+        "en": "In “Antes da decolagem · G1/G2”, what action corresponds to “Navigation Radios/GPS”?"
+      },
+      "options": [
+        "SET for Takeoff",
+        "CONFIRM",
+        "LATCHED",
+        "SET 50% & CHECK"
+      ],
+      "answer": "SET for Takeoff",
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "q-ck-v6-SR22-12-0",
+      "model": "SR22",
+      "category": "Checklists · Decolagem normal · G1/G2",
+      "q": {
+        "pt": "No checklist “Decolagem normal · G1/G2”, qual ação está associada a “Flaps”?",
+        "en": "In “Decolagem normal · G1/G2”, what action corresponds to “Flaps”?"
+      },
+      "options": [
+        "50%",
+        "SET",
+        "CHECK",
+        "78 KIAS"
+      ],
+      "answer": "50%",
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "q-ck-v6-SR22-12-1",
+      "model": "SR22",
+      "category": "Checklists · Decolagem normal · G1/G2",
+      "q": {
+        "pt": "No checklist “Decolagem normal · G1/G2”, qual ação está associada a “Brakes”?",
+        "en": "In “Decolagem normal · G1/G2”, what action corresponds to “Brakes”?"
+      },
+      "options": [
+        "HOLD",
+        "ROTATE Smoothly at 70 KIAS",
+        "78 KIAS",
+        "CHECK"
+      ],
+      "answer": "HOLD",
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "q-ck-v6-SR22-12-2",
+      "model": "SR22",
+      "category": "Checklists · Decolagem normal · G1/G2",
+      "q": {
+        "pt": "No checklist “Decolagem normal · G1/G2”, qual ação está associada a “Power Lever”?",
+        "en": "In “Decolagem normal · G1/G2”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "FULL FORWARD",
+        "50%",
+        "SET",
+        "HOLD"
+      ],
+      "answer": "FULL FORWARD",
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "q-ck-v6-SR22-12-3",
+      "model": "SR22",
+      "category": "Checklists · Decolagem normal · G1/G2",
+      "q": {
+        "pt": "No checklist “Decolagem normal · G1/G2”, qual ação está associada a “Mixture”?",
+        "en": "In “Decolagem normal · G1/G2”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "SET",
+        "CHECK",
+        "50%",
+        "ROTATE Smoothly at 70 KIAS"
+      ],
+      "answer": "SET",
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "q-ck-v6-SR22-12-4",
+      "model": "SR22",
+      "category": "Checklists · Decolagem normal · G1/G2",
+      "q": {
+        "pt": "No checklist “Decolagem normal · G1/G2”, qual ação está associada a “Engine Parameters”?",
+        "en": "In “Decolagem normal · G1/G2”, what action corresponds to “Engine Parameters”?"
+      },
+      "options": [
+        "CHECK",
+        "HOLD",
+        "SET",
+        "RELEASE (Steer with Rudder Only)"
+      ],
+      "answer": "CHECK",
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "q-ck-v6-SR22-12-5",
+      "model": "SR22",
+      "category": "Checklists · Decolagem normal · G1/G2",
+      "q": {
+        "pt": "No checklist “Decolagem normal · G1/G2”, qual ação está associada a “Brakes”?",
+        "en": "In “Decolagem normal · G1/G2”, what action corresponds to “Brakes”?"
+      },
+      "options": [
+        "RELEASE (Steer with Rudder Only)",
+        "50%",
+        "SET",
+        "78 KIAS"
+      ],
+      "answer": "RELEASE (Steer with Rudder Only)",
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "q-ck-v6-SR22-12-6",
+      "model": "SR22",
+      "category": "Checklists · Decolagem normal · G1/G2",
+      "q": {
+        "pt": "No checklist “Decolagem normal · G1/G2”, qual ação está associada a “Elevator Control”?",
+        "en": "In “Decolagem normal · G1/G2”, what action corresponds to “Elevator Control”?"
+      },
+      "options": [
+        "ROTATE Smoothly at 70 KIAS",
+        "SET",
+        "78 KIAS",
+        "RELEASE (Steer with Rudder Only)"
+      ],
+      "answer": "ROTATE Smoothly at 70 KIAS",
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "q-ck-v6-SR22-12-7",
+      "model": "SR22",
+      "category": "Checklists · Decolagem normal · G1/G2",
+      "q": {
+        "pt": "No checklist “Decolagem normal · G1/G2”, qual ação está associada a “Airspeed at Obstacle”?",
+        "en": "In “Decolagem normal · G1/G2”, what action corresponds to “Airspeed at Obstacle”?"
+      },
+      "options": [
+        "78 KIAS",
+        "CHECK",
+        "HOLD",
+        "RELEASE (Steer with Rudder Only)"
+      ],
+      "answer": "78 KIAS",
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "q-ck-v6-SR22-13-0",
+      "model": "SR22",
+      "category": "Checklists · Descida e aproximação · G1/G2",
+      "q": {
+        "pt": "No checklist “Descida e aproximação · G1/G2”, qual ação está associada a “Altimeter”?",
+        "en": "In “Descida e aproximação · G1/G2”, what action corresponds to “Altimeter”?"
+      },
+      "options": [
+        "SET",
+        "AS REQUIRED",
+        "ON",
+        "CHECK"
+      ],
+      "answer": "SET",
+      "doc": 1,
+      "page": 13,
+      "ref": "Checklist SR22(1).pdf · p. 13"
+    },
+    {
+      "id": "q-ck-v6-SR22-13-1",
+      "model": "SR22",
+      "category": "Checklists · Descida e aproximação · G1/G2",
+      "q": {
+        "pt": "No checklist “Descida e aproximação · G1/G2”, qual ação está associada a “Cabin Heat/Defrost”?",
+        "en": "In “Descida e aproximação · G1/G2”, what action corresponds to “Cabin Heat/Defrost”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "CHECK",
+        "SET",
+        "ON"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 1,
+      "page": 13,
+      "ref": "Checklist SR22(1).pdf · p. 13"
+    },
+    {
+      "id": "q-ck-v6-SR22-13-2",
+      "model": "SR22",
+      "category": "Checklists · Descida e aproximação · G1/G2",
+      "q": {
+        "pt": "No checklist “Descida e aproximação · G1/G2”, qual ação está associada a “Landing Light”?",
+        "en": "In “Descida e aproximação · G1/G2”, what action corresponds to “Landing Light”?"
+      },
+      "options": [
+        "ON",
+        "SET",
+        "AS REQUIRED",
+        "CHECK"
+      ],
+      "answer": "ON",
+      "doc": 1,
+      "page": 13,
+      "ref": "Checklist SR22(1).pdf · p. 13"
+    },
+    {
+      "id": "q-ck-v6-SR22-13-3",
+      "model": "SR22",
+      "category": "Checklists · Descida e aproximação · G1/G2",
+      "q": {
+        "pt": "No checklist “Descida e aproximação · G1/G2”, qual ação está associada a “Fuel System”?",
+        "en": "In “Descida e aproximação · G1/G2”, what action corresponds to “Fuel System”?"
+      },
+      "options": [
+        "CHECK",
+        "ON",
+        "AS REQUIRED",
+        "SET"
+      ],
+      "answer": "CHECK",
+      "doc": 1,
+      "page": 13,
+      "ref": "Checklist SR22(1).pdf · p. 13"
+    },
+    {
+      "id": "q-ck-v6-SR22-13-4",
+      "model": "SR22",
+      "category": "Checklists · Descida e aproximação · G1/G2",
+      "q": {
+        "pt": "No checklist “Descida e aproximação · G1/G2”, qual ação está associada a “Mixture”?",
+        "en": "In “Descida e aproximação · G1/G2”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "SET",
+        "ON",
+        "CHECK"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 1,
+      "page": 13,
+      "ref": "Checklist SR22(1).pdf · p. 13"
+    },
+    {
+      "id": "q-ck-v6-SR22-13-5",
+      "model": "SR22",
+      "category": "Checklists · Descida e aproximação · G1/G2",
+      "q": {
+        "pt": "No checklist “Descida e aproximação · G1/G2”, qual ação está associada a “Brake Pressure”?",
+        "en": "In “Descida e aproximação · G1/G2”, what action corresponds to “Brake Pressure”?"
+      },
+      "options": [
+        "CHECK",
+        "SET",
+        "AS REQUIRED",
+        "ON"
+      ],
+      "answer": "CHECK",
+      "doc": 1,
+      "page": 13,
+      "ref": "Checklist SR22(1).pdf · p. 13"
+    },
+    {
+      "id": "q-ck-v6-SR22-14-0",
+      "model": "SR22",
+      "category": "Checklists · Após pouso e corte · G1/G2",
+      "q": {
+        "pt": "No checklist “Após pouso e corte · G1/G2”, qual ação está associada a “Fuel Pump (if used)”?",
+        "en": "In “Após pouso e corte · G1/G2”, what action corresponds to “Fuel Pump (if used)”?"
+      },
+      "options": [
+        "OFF",
+        "CYCLE - MAG GROUNDING CHECK",
+        "TRANSMIT LIGHT OUT",
+        "AS REQUIRED"
+      ],
+      "answer": "OFF",
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "q-ck-v6-SR22-14-1",
+      "model": "SR22",
+      "category": "Checklists · Após pouso e corte · G1/G2",
+      "q": {
+        "pt": "No checklist “Após pouso e corte · G1/G2”, qual ação está associada a “Throttle”?",
+        "en": "In “Após pouso e corte · G1/G2”, what action corresponds to “Throttle”?"
+      },
+      "options": [
+        "IDLE",
+        "CYCLE - MAG GROUNDING CHECK",
+        "TRANSMIT LIGHT OUT",
+        "AS REQUIRED"
+      ],
+      "answer": "IDLE",
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "q-ck-v6-SR22-14-2",
+      "model": "SR22",
+      "category": "Checklists · Após pouso e corte · G1/G2",
+      "q": {
+        "pt": "No checklist “Após pouso e corte · G1/G2”, qual ação está associada a “Ignition Switch”?",
+        "en": "In “Após pouso e corte · G1/G2”, what action corresponds to “Ignition Switch”?"
+      },
+      "options": [
+        "CYCLE - MAG GROUNDING CHECK",
+        "CUTOFF",
+        "TRANSMIT LIGHT OUT",
+        "IDLE"
+      ],
+      "answer": "CYCLE - MAG GROUNDING CHECK",
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "q-ck-v6-SR22-14-3",
+      "model": "SR22",
+      "category": "Checklists · Após pouso e corte · G1/G2",
+      "q": {
+        "pt": "No checklist “Após pouso e corte · G1/G2”, qual ação está associada a “Mixture”?",
+        "en": "In “Após pouso e corte · G1/G2”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "CUTOFF",
+        "CYCLE - MAG GROUNDING CHECK",
+        "IDLE",
+        "TRANSMIT LIGHT OUT"
+      ],
+      "answer": "CUTOFF",
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "q-ck-v6-SR22-14-4",
+      "model": "SR22",
+      "category": "Checklists · Após pouso e corte · G1/G2",
+      "q": {
+        "pt": "No checklist “Após pouso e corte · G1/G2”, qual ação está associada a “All Switches”?",
+        "en": "In “Após pouso e corte · G1/G2”, what action corresponds to “All Switches”?"
+      },
+      "options": [
+        "OFF",
+        "AS REQUIRED",
+        "IDLE",
+        "CYCLE - MAG GROUNDING CHECK"
+      ],
+      "answer": "OFF",
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "q-ck-v6-SR22-14-5",
+      "model": "SR22",
+      "category": "Checklists · Após pouso e corte · G1/G2",
+      "q": {
+        "pt": "No checklist “Após pouso e corte · G1/G2”, qual ação está associada a “Magnetos”?",
+        "en": "In “Após pouso e corte · G1/G2”, what action corresponds to “Magnetos”?"
+      },
+      "options": [
+        "OFF",
+        "CYCLE - MAG GROUNDING CHECK",
+        "TRANSMIT LIGHT OUT",
+        "IDLE"
+      ],
+      "answer": "OFF",
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "q-ck-v6-SR22-14-6",
+      "model": "SR22",
+      "category": "Checklists · Após pouso e corte · G1/G2",
+      "q": {
+        "pt": "No checklist “Após pouso e corte · G1/G2”, qual ação está associada a “ELT”?",
+        "en": "In “Após pouso e corte · G1/G2”, what action corresponds to “ELT”?"
+      },
+      "options": [
+        "TRANSMIT LIGHT OUT",
+        "CYCLE - MAG GROUNDING CHECK",
+        "IDLE",
+        "OFF"
+      ],
+      "answer": "TRANSMIT LIGHT OUT",
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "q-ck-v6-SR22-14-7",
+      "model": "SR22",
+      "category": "Checklists · Após pouso e corte · G1/G2",
+      "q": {
+        "pt": "No checklist “Após pouso e corte · G1/G2”, qual ação está associada a “Chocks, Tie-downs, Pitot Covers”?",
+        "en": "In “Após pouso e corte · G1/G2”, what action corresponds to “Chocks, Tie-downs, Pitot Covers”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "IDLE",
+        "CUTOFF",
+        "CYCLE - MAG GROUNDING CHECK"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-0",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “External Power (If applicable)”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “External Power (If applicable)”?"
+      },
+      "options": [
+        "CONNECT",
+        "ON (Check Volts)",
+        "HOLD",
+        "ON"
+      ],
+      "answer": "CONNECT",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-1",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Brakes”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Brakes”?"
+      },
+      "options": [
+        "HOLD",
+        "START (Release after engine starts)",
+        "ON",
+        "OPEN ¼ INCH"
+      ],
+      "answer": "HOLD",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-2",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Bat Master Switches”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Bat Master Switches”?"
+      },
+      "options": [
+        "ON (Check Volts)",
+        "FULL FORWARD",
+        "CONNECT",
+        "START (Release after engine starts)"
+      ],
+      "answer": "ON (Check Volts)",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-3",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Strobe Lights”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Strobe Lights”?"
+      },
+      "options": [
+        "ON",
+        "HOLD",
+        "CONNECT",
+        "OPEN ¼ INCH"
+      ],
+      "answer": "ON",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-4",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Mixture”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "FULL RICH",
+        "OPEN ¼ INCH",
+        "CLEAR",
+        "PRIME, then BOOST"
+      ],
+      "answer": "FULL RICH",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-5",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Power Lever”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "FULL FORWARD",
+        "PRIME, then BOOST",
+        "ON",
+        "START (Release after engine starts)"
+      ],
+      "answer": "FULL FORWARD",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-6",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Fuel Pump”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Fuel Pump”?"
+      },
+      "options": [
+        "PRIME, then BOOST",
+        "ON",
+        "START (Release after engine starts)",
+        "FULL FORWARD"
+      ],
+      "answer": "PRIME, then BOOST",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-7",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Propeller Area”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Propeller Area”?"
+      },
+      "options": [
+        "CLEAR",
+        "HOLD",
+        "FULL RICH",
+        "ON"
+      ],
+      "answer": "CLEAR",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-8",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Power Lever”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "OPEN ¼ INCH",
+        "CONNECT",
+        "PRIME, then BOOST",
+        "FULL FORWARD"
+      ],
+      "answer": "OPEN ¼ INCH",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR20-86-9",
+      "model": "SR20",
+      "category": "Checklists · Partida do motor · POH da versão",
+      "q": {
+        "pt": "No checklist “Partida do motor · POH da versão”, qual ação está associada a “Ignition Switch”?",
+        "en": "In “Partida do motor · POH da versão”, what action corresponds to “Ignition Switch”?"
+      },
+      "options": [
+        "START (Release after engine starts)",
+        "PRIME, then BOOST",
+        "ON",
+        "HOLD"
+      ],
+      "answer": "START (Release after engine starts)",
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-0",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “External Power (If applicable)”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “External Power (If applicable)”?"
+      },
+      "options": [
+        "CONNECT",
+        "BOOST",
+        "ON",
+        "CHECK"
+      ],
+      "answer": "CONNECT",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-1",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Brakes”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Brakes”?"
+      },
+      "options": [
+        "HOLD",
+        "ON (CHECK VOLTS)",
+        "CLEAR",
+        "CHECK"
+      ],
+      "answer": "HOLD",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-2",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “BAT 1 and BAT 2 Switches”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “BAT 1 and BAT 2 Switches”?"
+      },
+      "options": [
+        "ON (CHECK VOLTS)",
+        "BOOST",
+        "HOLD",
+        "FULL FORWARD"
+      ],
+      "answer": "ON (CHECK VOLTS)",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-3",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Strobe Lights”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Strobe Lights”?"
+      },
+      "options": [
+        "ON",
+        "CLEAR",
+        "ON (CHECK VOLTS)",
+        "RETARD (MAINTAIN 1000 RPM)"
+      ],
+      "answer": "ON",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-4",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Mixture”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "FULL RICH",
+        "BOOST",
+        "CHECK",
+        "CONNECT"
+      ],
+      "answer": "FULL RICH",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-5",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Power Lever”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "FULL FORWARD",
+        "START (RELEASE AFTER ENGINE STARTS)",
+        "ON (CHECK VOLTS)",
+        "ON"
+      ],
+      "answer": "FULL FORWARD",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-6",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Fuel Pump”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Fuel Pump”?"
+      },
+      "options": [
+        "BOOST",
+        "CONNECT",
+        "OPEN ¼ INCH",
+        "ON"
+      ],
+      "answer": "BOOST",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-7",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Propeller Area”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Propeller Area”?"
+      },
+      "options": [
+        "CLEAR",
+        "CONNECT",
+        "ON",
+        "ON (CHECK VOLTS)"
+      ],
+      "answer": "CLEAR",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-8",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Power Lever”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "OPEN ¼ INCH",
+        "HOLD",
+        "CHECK",
+        "ON"
+      ],
+      "answer": "OPEN ¼ INCH",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-9",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Ignition Switch”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Ignition Switch”?"
+      },
+      "options": [
+        "START (RELEASE AFTER ENGINE STARTS)",
+        "OPEN ¼ INCH",
+        "CONNECT",
+        "CHECK"
+      ],
+      "answer": "START (RELEASE AFTER ENGINE STARTS)",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-10",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Power Lever”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "RETARD (MAINTAIN 1000 RPM)",
+        "ON (CHECK VOLTS)",
+        "HOLD",
+        "FULL RICH"
+      ],
+      "answer": "RETARD (MAINTAIN 1000 RPM)",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-148-11",
+      "model": "SR22T",
+      "category": "Checklists · Antes do táxi · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do táxi · POH da versão”, qual ação está associada a “Oil Pressure”?",
+        "en": "In “Antes do táxi · POH da versão”, what action corresponds to “Oil Pressure”?"
+      },
+      "options": [
+        "CHECK",
+        "CLEAR",
+        "FULL RICH",
+        "OPEN ¼ INCH"
+      ],
+      "answer": "CHECK",
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-0",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Doors”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Doors”?"
+      },
+      "options": [
+        "LATCHED",
+        "VERIFY PIN REMOVED",
+        "AS REQUIRED",
+        "RECIRC DISABLED"
+      ],
+      "answer": "LATCHED",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-1",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “CAPS Handle”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “CAPS Handle”?"
+      },
+      "options": [
+        "VERIFY PIN REMOVED",
+        "BOOST",
+        "LATCHED",
+        "RECIRC DISABLED"
+      ],
+      "answer": "VERIFY PIN REMOVED",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-2",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Seat Belts and Shoulder Harness”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Seat Belts and Shoulder Harness”?"
+      },
+      "options": [
+        "SECURE",
+        "CONFIRM",
+        "AS REQUIRED",
+        "BOOST"
+      ],
+      "answer": "SECURE",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-3",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Cabin Heat/Defrost”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Cabin Heat/Defrost”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "CONFIRM",
+        "LATCHED",
+        "RECIRC DISABLED"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-4",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Air Conditioner”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Air Conditioner”?"
+      },
+      "options": [
+        "RECIRC DISABLED",
+        "SET 50% AND CHECK",
+        "FULLER TANK",
+        "CONFIRM"
+      ],
+      "answer": "RECIRC DISABLED",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-5",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Fuel Quantity”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Fuel Quantity”?"
+      },
+      "options": [
+        "CONFIRM",
+        "SECURE",
+        "RECIRC DISABLED",
+        "VERIFY PIN REMOVED"
+      ],
+      "answer": "CONFIRM",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-6",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Fuel Selector”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Fuel Selector”?"
+      },
+      "options": [
+        "FULLER TANK",
+        "FULL RICH",
+        "BOOST",
+        "VERIFY PIN REMOVED"
+      ],
+      "answer": "FULLER TANK",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-7",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Fuel Pump”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Fuel Pump”?"
+      },
+      "options": [
+        "BOOST",
+        "LATCHED",
+        "VERIFY PIN REMOVED",
+        "FULLER TANK"
+      ],
+      "answer": "BOOST",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-8",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Mixture”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "FULL RICH",
+        "BOOST",
+        "SET 50% AND CHECK",
+        "VERIFY PIN REMOVED"
+      ],
+      "answer": "FULL RICH",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-150-9",
+      "model": "SR22T",
+      "category": "Checklists · Antes da decolagem · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes da decolagem · POH da versão”, qual ação está associada a “Flaps”?",
+        "en": "In “Antes da decolagem · POH da versão”, what action corresponds to “Flaps”?"
+      },
+      "options": [
+        "SET 50% AND CHECK",
+        "FULLER TANK",
+        "BOOST",
+        "CONFIRM"
+      ],
+      "answer": "SET 50% AND CHECK",
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "q-ck-v6-SR22T-154-0",
+      "model": "SR22T",
+      "category": "Checklists · Decolagem normal · POH da versão",
+      "q": {
+        "pt": "No checklist “Decolagem normal · POH da versão”, qual ação está associada a “Flaps”?",
+        "en": "In “Decolagem normal · POH da versão”, what action corresponds to “Flaps”?"
+      },
+      "options": [
+        "50%",
+        "RELEASE (STEER WITH RUDDER ONLY)",
+        "85 KIAS",
+        "HOLD"
+      ],
+      "answer": "50%",
+      "doc": 5,
+      "page": 154,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 154"
+    },
+    {
+      "id": "q-ck-v6-SR22T-154-1",
+      "model": "SR22T",
+      "category": "Checklists · Decolagem normal · POH da versão",
+      "q": {
+        "pt": "No checklist “Decolagem normal · POH da versão”, qual ação está associada a “Brakes”?",
+        "en": "In “Decolagem normal · POH da versão”, what action corresponds to “Brakes”?"
+      },
+      "options": [
+        "HOLD",
+        "ROTATE SMOOTHLY AT 77 KIAS",
+        "RELEASE (STEER WITH RUDDER ONLY)",
+        "50%"
+      ],
+      "answer": "HOLD",
+      "doc": 5,
+      "page": 154,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 154"
+    },
+    {
+      "id": "q-ck-v6-SR22T-154-2",
+      "model": "SR22T",
+      "category": "Checklists · Decolagem normal · POH da versão",
+      "q": {
+        "pt": "No checklist “Decolagem normal · POH da versão”, qual ação está associada a “Power Lever”?",
+        "en": "In “Decolagem normal · POH da versão”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "FULL FORWARD",
+        "50%",
+        "RELEASE (STEER WITH RUDDER ONLY)",
+        "HOLD"
+      ],
+      "answer": "FULL FORWARD",
+      "doc": 5,
+      "page": 154,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 154"
+    },
+    {
+      "id": "q-ck-v6-SR22T-154-3",
+      "model": "SR22T",
+      "category": "Checklists · Decolagem normal · POH da versão",
+      "q": {
+        "pt": "No checklist “Decolagem normal · POH da versão”, qual ação está associada a “Engine Parameters”?",
+        "en": "In “Decolagem normal · POH da versão”, what action corresponds to “Engine Parameters”?"
+      },
+      "options": [
+        "CHECK",
+        "50%",
+        "85 KIAS",
+        "RELEASE (STEER WITH RUDDER ONLY)"
+      ],
+      "answer": "CHECK",
+      "doc": 5,
+      "page": 154,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 154"
+    },
+    {
+      "id": "q-ck-v6-SR22T-154-4",
+      "model": "SR22T",
+      "category": "Checklists · Decolagem normal · POH da versão",
+      "q": {
+        "pt": "No checklist “Decolagem normal · POH da versão”, qual ação está associada a “Brakes”?",
+        "en": "In “Decolagem normal · POH da versão”, what action corresponds to “Brakes”?"
+      },
+      "options": [
+        "RELEASE (STEER WITH RUDDER ONLY)",
+        "85 KIAS",
+        "FULL FORWARD",
+        "50%"
+      ],
+      "answer": "RELEASE (STEER WITH RUDDER ONLY)",
+      "doc": 5,
+      "page": 154,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 154"
+    },
+    {
+      "id": "q-ck-v6-SR22T-154-5",
+      "model": "SR22T",
+      "category": "Checklists · Decolagem normal · POH da versão",
+      "q": {
+        "pt": "No checklist “Decolagem normal · POH da versão”, qual ação está associada a “Elevator Control”?",
+        "en": "In “Decolagem normal · POH da versão”, what action corresponds to “Elevator Control”?"
+      },
+      "options": [
+        "ROTATE SMOOTHLY AT 77 KIAS",
+        "85 KIAS",
+        "RELEASE (STEER WITH RUDDER ONLY)",
+        "50%"
+      ],
+      "answer": "ROTATE SMOOTHLY AT 77 KIAS",
+      "doc": 5,
+      "page": 154,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 154"
+    },
+    {
+      "id": "q-ck-v6-SR22T-154-6",
+      "model": "SR22T",
+      "category": "Checklists · Decolagem normal · POH da versão",
+      "q": {
+        "pt": "No checklist “Decolagem normal · POH da versão”, qual ação está associada a “Airspeed at Obstacle”?",
+        "en": "In “Decolagem normal · POH da versão”, what action corresponds to “Airspeed at Obstacle”?"
+      },
+      "options": [
+        "85 KIAS",
+        "ROTATE SMOOTHLY AT 77 KIAS",
+        "RELEASE (STEER WITH RUDDER ONLY)",
+        "FULL FORWARD"
+      ],
+      "answer": "85 KIAS",
+      "doc": 5,
+      "page": 154,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 154"
+    },
+    {
+      "id": "q-ck-v6-SR22T-159-0",
+      "model": "SR22T",
+      "category": "Checklists · Descida · POH da versão",
+      "q": {
+        "pt": "No checklist “Descida · POH da versão”, qual ação está associada a “Oxygen”?",
+        "en": "In “Descida · POH da versão”, what action corresponds to “Oxygen”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "CHECK",
+        "SET",
+        "ON"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "q-ck-v6-SR22T-159-1",
+      "model": "SR22T",
+      "category": "Checklists · Descida · POH da versão",
+      "q": {
+        "pt": "No checklist “Descida · POH da versão”, qual ação está associada a “Altimeter”?",
+        "en": "In “Descida · POH da versão”, what action corresponds to “Altimeter”?"
+      },
+      "options": [
+        "SET",
+        "AS REQUIRED",
+        "ON",
+        "CHECK"
+      ],
+      "answer": "SET",
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "q-ck-v6-SR22T-159-2",
+      "model": "SR22T",
+      "category": "Checklists · Descida · POH da versão",
+      "q": {
+        "pt": "No checklist “Descida · POH da versão”, qual ação está associada a “Cabin Heat/Defrost”?",
+        "en": "In “Descida · POH da versão”, what action corresponds to “Cabin Heat/Defrost”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "ON",
+        "SET",
+        "CHECK"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "q-ck-v6-SR22T-159-3",
+      "model": "SR22T",
+      "category": "Checklists · Descida · POH da versão",
+      "q": {
+        "pt": "No checklist “Descida · POH da versão”, qual ação está associada a “Landing Light”?",
+        "en": "In “Descida · POH da versão”, what action corresponds to “Landing Light”?"
+      },
+      "options": [
+        "ON",
+        "CHECK",
+        "AS REQUIRED",
+        "SET"
+      ],
+      "answer": "ON",
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "q-ck-v6-SR22T-159-4",
+      "model": "SR22T",
+      "category": "Checklists · Descida · POH da versão",
+      "q": {
+        "pt": "No checklist “Descida · POH da versão”, qual ação está associada a “Fuel System”?",
+        "en": "In “Descida · POH da versão”, what action corresponds to “Fuel System”?"
+      },
+      "options": [
+        "CHECK",
+        "SET",
+        "ON",
+        "AS REQUIRED"
+      ],
+      "answer": "CHECK",
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "q-ck-v6-SR22T-159-5",
+      "model": "SR22T",
+      "category": "Checklists · Descida · POH da versão",
+      "q": {
+        "pt": "No checklist “Descida · POH da versão”, qual ação está associada a “Power Lever”?",
+        "en": "In “Descida · POH da versão”, what action corresponds to “Power Lever”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "SET",
+        "ON",
+        "CHECK"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "q-ck-v6-SR22T-159-6",
+      "model": "SR22T",
+      "category": "Checklists · Descida · POH da versão",
+      "q": {
+        "pt": "No checklist “Descida · POH da versão”, qual ação está associada a “Mixture”?",
+        "en": "In “Descida · POH da versão”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "CHECK",
+        "ON",
+        "SET"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "q-ck-v6-SR22T-159-7",
+      "model": "SR22T",
+      "category": "Checklists · Descida · POH da versão",
+      "q": {
+        "pt": "No checklist “Descida · POH da versão”, qual ação está associada a “Brake Pressure”?",
+        "en": "In “Descida · POH da versão”, what action corresponds to “Brake Pressure”?"
+      },
+      "options": [
+        "CHECK",
+        "ON",
+        "SET",
+        "AS REQUIRED"
+      ],
+      "answer": "CHECK",
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "q-ck-v6-SR22T-160-0",
+      "model": "SR22T",
+      "category": "Checklists · Antes do pouso · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do pouso · POH da versão”, qual ação está associada a “Seat Belt and Shoulder Harness”?",
+        "en": "In “Antes do pouso · POH da versão”, what action corresponds to “Seat Belt and Shoulder Harness”?"
+      },
+      "options": [
+        "SECURE",
+        "FULL RICH",
+        "BOOST",
+        "AS REQUIRED"
+      ],
+      "answer": "SECURE",
+      "doc": 5,
+      "page": 160,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 160"
+    },
+    {
+      "id": "q-ck-v6-SR22T-160-1",
+      "model": "SR22T",
+      "category": "Checklists · Antes do pouso · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do pouso · POH da versão”, qual ação está associada a “Fuel Pump”?",
+        "en": "In “Antes do pouso · POH da versão”, what action corresponds to “Fuel Pump”?"
+      },
+      "options": [
+        "BOOST",
+        "FULL RICH",
+        "AS REQUIRED",
+        "SECURE"
+      ],
+      "answer": "BOOST",
+      "doc": 5,
+      "page": 160,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 160"
+    },
+    {
+      "id": "q-ck-v6-SR22T-160-2",
+      "model": "SR22T",
+      "category": "Checklists · Antes do pouso · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do pouso · POH da versão”, qual ação está associada a “Mixture”?",
+        "en": "In “Antes do pouso · POH da versão”, what action corresponds to “Mixture”?"
+      },
+      "options": [
+        "FULL RICH",
+        "SECURE",
+        "BOOST",
+        "AS REQUIRED"
+      ],
+      "answer": "FULL RICH",
+      "doc": 5,
+      "page": 160,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 160"
+    },
+    {
+      "id": "q-ck-v6-SR22T-160-3",
+      "model": "SR22T",
+      "category": "Checklists · Antes do pouso · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do pouso · POH da versão”, qual ação está associada a “Flaps”?",
+        "en": "In “Antes do pouso · POH da versão”, what action corresponds to “Flaps”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "FULL RICH",
+        "SECURE",
+        "BOOST"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 5,
+      "page": 160,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 160"
+    },
+    {
+      "id": "q-ck-v6-SR22T-160-4",
+      "model": "SR22T",
+      "category": "Checklists · Antes do pouso · POH da versão",
+      "q": {
+        "pt": "No checklist “Antes do pouso · POH da versão”, qual ação está associada a “Autopilot”?",
+        "en": "In “Antes do pouso · POH da versão”, what action corresponds to “Autopilot”?"
+      },
+      "options": [
+        "AS REQUIRED",
+        "SECURE",
+        "FULL RICH",
+        "BOOST"
+      ],
+      "answer": "AS REQUIRED",
+      "doc": 5,
+      "page": 160,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 160"
+    },
+    {
+      "id": "v6-fact-0",
+      "model": "SR22",
+      "category": "Desempenho",
+      "q": {
+        "pt": "Qual velocidade de rotação para decolagem normal, flaps 50%, no SR22 G1/G2?",
+        "en": "Qual velocidade de rotação para decolagem normal, flaps 50%, no SR22 G1/G2?"
+      },
+      "options": [
+        "70 KIAS",
+        "60 KIAS",
+        "78 KIAS",
+        "95 KIAS"
+      ],
+      "answer": "70 KIAS",
+      "doc": 1,
+      "page": 5,
+      "ref": "Checklist SR22 G1/G2 (2011)"
+    },
+    {
+      "id": "v6-fact-1",
+      "model": "SR22",
+      "category": "Desempenho",
+      "q": {
+        "pt": "Qual velocidade de rotação para transpor obstáculos, flaps 50%, no SR22 G1/G2?",
+        "en": "Qual velocidade de rotação para transpor obstáculos, flaps 50%, no SR22 G1/G2?"
+      },
+      "options": [
+        "78 KIAS",
+        "70 KIAS",
+        "95 KIAS",
+        "110 KIAS"
+      ],
+      "answer": "78 KIAS",
+      "doc": 1,
+      "page": 5,
+      "ref": "Checklist SR22 G1/G2 (2011)"
+    },
+    {
+      "id": "v6-fact-2",
+      "model": "SR22",
+      "category": "Desempenho",
+      "q": {
+        "pt": "Na tabela de decolagem a 3400 lb, qual é a velocidade indicada de saída do solo?",
+        "en": "Na tabela de decolagem a 3400 lb, qual é a velocidade indicada de saída do solo?"
+      },
+      "options": [
+        "73 KIAS",
+        "70 KIAS",
+        "77 KIAS",
+        "95 KIAS"
+      ],
+      "answer": "73 KIAS",
+      "doc": 1,
+      "page": 16,
+      "ref": "Checklist SR22 G1/G2 (2011)"
+    },
+    {
+      "id": "v6-fact-3",
+      "model": "SR22",
+      "category": "Desempenho",
+      "q": {
+        "pt": "Na tabela de decolagem a 2900 lb, qual é a velocidade indicada de saída do solo?",
+        "en": "Na tabela de decolagem a 2900 lb, qual é a velocidade indicada de saída do solo?"
+      },
+      "options": [
+        "70 KIAS",
+        "73 KIAS",
+        "78 KIAS",
+        "95 KIAS"
+      ],
+      "answer": "70 KIAS",
+      "doc": 1,
+      "page": 17,
+      "ref": "Checklist SR22 G1/G2 (2011)"
+    },
+    {
+      "id": "v6-fact-4",
+      "model": "SR22",
+      "category": "Desempenho",
+      "q": {
+        "pt": "Na tabela de distância de pouso a 3400 lb, qual velocidade sobre obstáculo de 50 pés?",
+        "en": "Na tabela de distância de pouso a 3400 lb, qual velocidade sobre obstáculo de 50 pés?"
+      },
+      "options": [
+        "77 KIAS",
+        "70 KIAS",
+        "73 KIAS",
+        "95 KIAS"
+      ],
+      "answer": "77 KIAS",
+      "doc": 1,
+      "page": 20,
+      "ref": "Checklist SR22 G1/G2 (2011)"
+    },
+    {
+      "id": "v6-fact-5",
+      "model": "SR22",
+      "category": "Desempenho",
+      "q": {
+        "pt": "Qual componente máxima de vento cruzado demonstrada no checklist SR22 G1/G2?",
+        "en": "Qual componente máxima de vento cruzado demonstrada no checklist SR22 G1/G2?"
+      },
+      "options": [
+        "20 nós",
+        "12 nós",
+        "15 nós",
+        "25 nós"
+      ],
+      "answer": "20 nós",
+      "doc": 1,
+      "page": 21,
+      "ref": "Checklist SR22 G1/G2 (2011)"
     }
   ],
   "orders": [
@@ -2324,6 +4300,257 @@
       "doc": 8,
       "page": 3,
       "ref": "Checklist MC01 · Rev. 4 · Falha de motor em voo · trecho para estudo"
+    },
+    {
+      "id": "ck-v6-SR22-10",
+      "model": "SR22",
+      "category": "Procedimentos normais",
+      "title": "Partida do motor · G1/G2",
+      "steps": [
+        "External Power (If applicable) — CONNECT",
+        "Brakes — HOLD",
+        "Bat Master Switches — ON (Check Volts)",
+        "Strobe Lights — ON",
+        "Mixture — FULL RICH",
+        "Power Lever — FULL FORWARD",
+        "Fuel Pump — PRIME, then BOOST",
+        "Propeller Area — CLEAR",
+        "Power Lever — OPEN ¼ INCH",
+        "Ignition Switch — START (Release after engine starts)",
+        "Power Lever — RETARD (to maintain 1000 RPM)",
+        "Oil Pressure — CHECK"
+      ],
+      "doc": 1,
+      "page": 10,
+      "ref": "Checklist SR22(1).pdf · p. 10"
+    },
+    {
+      "id": "ck-v6-SR22-11",
+      "model": "SR22",
+      "category": "Procedimentos normais",
+      "title": "Antes da decolagem · G1/G2",
+      "steps": [
+        "Doors — LATCHED",
+        "CAPS Handle — Verify Pin Removed",
+        "Seat Belts and Shoulder Harness — SECURE",
+        "Air Conditioner — AS DESIRED",
+        "Fuel Quantity — CONFIRM",
+        "Fuel Selector — FULLEST TANK",
+        "Fuel Pump — BOOST",
+        "Mixture — AS REQUIRED",
+        "Flaps — SET 50% & CHECK",
+        "Transponder — SET",
+        "Autopilot — CHECK",
+        "Navigation Radios/GPS — SET for Takeoff"
+      ],
+      "doc": 1,
+      "page": 11,
+      "ref": "Checklist SR22(1).pdf · p. 11"
+    },
+    {
+      "id": "ck-v6-SR22-12",
+      "model": "SR22",
+      "category": "Procedimentos normais",
+      "title": "Decolagem em pista curta · G1/G2",
+      "steps": [
+        "Flaps — 50%",
+        "Brakes — HOLD",
+        "Power Lever — FULL FORWARD",
+        "Mixture — SET",
+        "Engine Parameters — CHECK",
+        "Brakes — RELEASE (Steer with Rudder Only)",
+        "Elevator Control — ROTATE Smoothly at 70 KIAS",
+        "Airspeed at Obstacle — 78 KIAS"
+      ],
+      "doc": 1,
+      "page": 12,
+      "ref": "Checklist SR22(1).pdf · p. 12"
+    },
+    {
+      "id": "ck-v6-SR22-13",
+      "model": "SR22",
+      "category": "Procedimentos normais",
+      "title": "Descida e aproximação · G1/G2",
+      "steps": [
+        "Altimeter — SET",
+        "Cabin Heat/Defrost — AS REQUIRED",
+        "Landing Light — ON",
+        "Fuel System — CHECK",
+        "Mixture — AS REQUIRED",
+        "Brake Pressure — CHECK"
+      ],
+      "doc": 1,
+      "page": 13,
+      "ref": "Checklist SR22(1).pdf · p. 13"
+    },
+    {
+      "id": "ck-v6-SR22-14",
+      "model": "SR22",
+      "category": "Procedimentos normais",
+      "title": "Corte do motor · G1/G2",
+      "steps": [
+        "Fuel Pump (if used) — OFF",
+        "Throttle — IDLE",
+        "Ignition Switch — CYCLE - MAG GROUNDING CHECK",
+        "Mixture — CUTOFF",
+        "All Switches — OFF",
+        "Magnetos — OFF",
+        "ELT — TRANSMIT LIGHT OUT",
+        "Chocks, Tie-downs, Pitot Covers — AS REQUIRED"
+      ],
+      "doc": 1,
+      "page": 14,
+      "ref": "Checklist SR22(1).pdf · p. 14"
+    },
+    {
+      "id": "ck-v6-SR20-86",
+      "model": "SR20",
+      "category": "Procedimentos normais",
+      "title": "Partida do motor · POH da versão",
+      "steps": [
+        "External Power (If applicable) — CONNECT",
+        "Brakes — HOLD",
+        "Bat Master Switches — ON (Check Volts)",
+        "Strobe Lights — ON",
+        "Mixture — FULL RICH",
+        "Power Lever — FULL FORWARD",
+        "Fuel Pump — PRIME, then BOOST",
+        "Propeller Area — CLEAR",
+        "Power Lever — OPEN ¼ INCH",
+        "Ignition Switch — START (Release after engine starts)"
+      ],
+      "doc": 12,
+      "page": 86,
+      "ref": "Cirrus-SR20-POH.pdf · p. 86"
+    },
+    {
+      "id": "ck-v6-SR20-88",
+      "model": "SR20",
+      "category": "Procedimentos normais",
+      "title": "Antes do táxi · POH da versão",
+      "steps": [
+        "Brakes — CHECK",
+        "Flaps — UP (0%)",
+        "Radios/Avionics — AS REQUIRED",
+        "Cabin Heat/Defrost — AS REQUIRED"
+      ],
+      "doc": 12,
+      "page": 88,
+      "ref": "Cirrus-SR20-POH.pdf · p. 88"
+    },
+    {
+      "id": "ck-v6-SR20-95",
+      "model": "SR20",
+      "category": "Procedimentos normais",
+      "title": "Descida · POH da versão",
+      "steps": [
+        "Altimeter — SET",
+        "Cabin Heat/Defrost — AS REQUIRED",
+        "Fuel System — CHECK",
+        "Mixture — AS REQUIRED",
+        "Flaps — AS REQUIRED",
+        "Brake Pressure — CHECK"
+      ],
+      "doc": 12,
+      "page": 95,
+      "ref": "Cirrus-SR20-POH.pdf · p. 95"
+    },
+    {
+      "id": "ck-v6-SR22T-148",
+      "model": "SR22T",
+      "category": "Procedimentos normais",
+      "title": "Antes do táxi · POH da versão",
+      "steps": [
+        "External Power (If applicable) — CONNECT",
+        "Brakes — HOLD",
+        "BAT 1 and BAT 2 Switches — ON (CHECK VOLTS)",
+        "Strobe Lights — ON",
+        "Mixture — FULL RICH",
+        "Power Lever — FULL FORWARD",
+        "Fuel Pump — BOOST",
+        "Propeller Area — CLEAR",
+        "Power Lever — OPEN ¼ INCH",
+        "Ignition Switch — START (RELEASE AFTER ENGINE STARTS)",
+        "Power Lever — RETARD (MAINTAIN 1000 RPM)",
+        "Oil Pressure — CHECK"
+      ],
+      "doc": 5,
+      "page": 148,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 148"
+    },
+    {
+      "id": "ck-v6-SR22T-150",
+      "model": "SR22T",
+      "category": "Procedimentos normais",
+      "title": "Antes da decolagem · POH da versão",
+      "steps": [
+        "Doors — LATCHED",
+        "CAPS Handle — VERIFY PIN REMOVED",
+        "Seat Belts and Shoulder Harness — SECURE",
+        "Cabin Heat/Defrost — AS REQUIRED",
+        "Air Conditioner — RECIRC DISABLED",
+        "Fuel Quantity — CONFIRM",
+        "Fuel Selector — FULLER TANK",
+        "Fuel Pump — BOOST",
+        "Mixture — FULL RICH",
+        "Flaps — SET 50% AND CHECK"
+      ],
+      "doc": 5,
+      "page": 150,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 150"
+    },
+    {
+      "id": "ck-v6-SR22T-154",
+      "model": "SR22T",
+      "category": "Procedimentos normais",
+      "title": "Decolagem em pista curta · POH da versão",
+      "steps": [
+        "Flaps — 50%",
+        "Brakes — HOLD",
+        "Power Lever — FULL FORWARD",
+        "Engine Parameters — CHECK",
+        "Brakes — RELEASE (STEER WITH RUDDER ONLY)",
+        "Elevator Control — ROTATE SMOOTHLY AT 77 KIAS",
+        "Airspeed at Obstacle — 85 KIAS"
+      ],
+      "doc": 5,
+      "page": 154,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 154"
+    },
+    {
+      "id": "ck-v6-SR22T-159",
+      "model": "SR22T",
+      "category": "Procedimentos normais",
+      "title": "Descida · POH da versão",
+      "steps": [
+        "Oxygen — AS REQUIRED",
+        "Altimeter — SET",
+        "Cabin Heat/Defrost — AS REQUIRED",
+        "Landing Light — ON",
+        "Fuel System — CHECK",
+        "Power Lever — AS REQUIRED",
+        "Mixture — AS REQUIRED",
+        "Brake Pressure — CHECK"
+      ],
+      "doc": 5,
+      "page": 159,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 159"
+    },
+    {
+      "id": "ck-v6-SR22T-160",
+      "model": "SR22T",
+      "category": "Procedimentos normais",
+      "title": "Antes do pouso · POH da versão",
+      "steps": [
+        "Seat Belt and Shoulder Harness — SECURE",
+        "Fuel Pump — BOOST",
+        "Mixture — FULL RICH",
+        "Flaps — AS REQUIRED",
+        "Autopilot — AS REQUIRED"
+      ],
+      "doc": 5,
+      "page": 160,
+      "ref": "SR22T POH Brazil (Perspective+).pdf · p. 160"
     }
   ]
 }

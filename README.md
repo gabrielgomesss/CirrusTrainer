@@ -1,12 +1,7 @@
-# FlightDeck Academy — Banco ampliado e aleatorização
+# FlightDeck Academy v6 — Checklists e Cirrus
 
-115 perguntas e 7 exercícios de ordenação. Questões embaralhadas sem repetição até terminar o conjunto selecionado, alternativas embaralhadas, revisão de erros e filtros por aeronave.
+Site estático para GitHub + Render. Selecione aeronave, acesse **Checklists**, escolha o procedimento e arraste os itens com mouse ou toque. A biblioteca inclui checklists de estudo específicos SR20 (POH 2003), SR22 G1/G2 (checklist 2011) e SR22T Perspective+ (AFM Brasil 2020), além dos exercícios anteriores Montaer.
 
-**Limites:** Não representa estudo integral dos 13 documentos. Perguntas novas foram extraídas de trechos verificáveis dos checklists MC01 PS-DZA/PS-DZB (página 2) e Ground School (página 2). As perguntas legadas foram preservadas e precisam de revisão técnica antes de uso como treinamento aeronáutico. A tradução inglesa das perguntas adicionadas ainda não foi revisada (texto em português).
+Banco: 219 perguntas e 20 sequências, com referências de PDF e página. As novas perguntas de checklist usam correspondência item/ação extraída do texto dos PDFs; traduções de perguntas antigas e questões complexas exigem revisão instrucional. Procedimentos apresentados são **trechos de estudo**, não checklists completos. A aeronave real pode ter revisões e suplementos diferentes. Não usar para operação.
 
-## Deploy
-Substitua os arquivos no repositório GitHub e execute `git add . && git commit -m "Amplia questoes e aleatoriza simulados" && git pull origin main --rebase && git push origin main`.
-
-**Direitos:** PDFs incluídos tornam-se públicos em Render Static Site, mesmo com repositório privado. Não publique sem autorização.
-
-Somente estudo em solo. Não substitui POH/AFM/checklists aplicáveis.
+Para publicar, substitua os arquivos no repositório, rode `git add . && git commit -m "Checklists e Cirrus v6" && git push origin main`.

@@ -1,0 +1,97 @@
+[
+  {
+    "model": "SR22",
+    "q": {
+      "pt": "Segundo o checklist SR22 G1/G2, qual a velocidade de rotação para decolagem normal com flaps 50%?",
+      "en": "According to the SR22 G1/G2 checklist, what is the normal takeoff rotation speed with 50% flaps?"
+    },
+    "a": [
+      "70 KIAS",
+      "78 KIAS",
+      "80 KIAS",
+      "90 KIAS"
+    ],
+    "correct": 0,
+    "ex": {
+      "pt": "A tabela de velocidades indica 70 KIAS para rotação normal com flaps 50%.",
+      "en": "The airspeed table specifies 70 KIAS for normal rotation with 50% flaps."
+    },
+    "ref": "SR22 Pilot's Checklist, N-2 (PDF p. 5), P/N 13728-001, July 2011"
+  },
+  {
+    "model": "SR22",
+    "q": {
+      "pt": "Qual é a velocidade indicada para aproximação normal com flaps 100% no checklist SR22 G1/G2?",
+      "en": "What is the normal approach speed with 100% flaps in the SR22 G1/G2 checklist?"
+    },
+    "a": [
+      "70–75 KIAS",
+      "80–85 KIAS",
+      "90–95 KIAS",
+      "100–105 KIAS"
+    ],
+    "correct": 1,
+    "ex": {
+      "pt": "A tabela indica 80–85 KIAS para aproximação normal com flaps 100%.",
+      "en": "The table lists 80–85 KIAS for a normal approach with 100% flaps."
+    },
+    "ref": "SR22 Pilot's Checklist, N-2 (PDF p. 5), P/N 13728-001, July 2011"
+  },
+  {
+    "model": "SR22",
+    "q": {
+      "pt": "Qual é o vento cruzado máximo demonstrado para decolagem ou pouso no checklist SR22 G1/G2?",
+      "en": "What is the maximum demonstrated crosswind for takeoff or landing in the SR22 G1/G2 checklist?"
+    },
+    "a": [
+      "15 kt",
+      "17 kt",
+      "20 kt",
+      "25 kt"
+    ],
+    "correct": 2,
+    "ex": {
+      "pt": "A tabela apresenta 20 nós como vento cruzado máximo demonstrado.",
+      "en": "The table lists 20 knots as maximum demonstrated crosswind."
+    },
+    "ref": "SR22 Pilot's Checklist, N-2 (PDF p. 5), P/N 13728-001, July 2011"
+  },
+  {
+    "model": "SR20",
+    "q": {
+      "pt": "Qual seção do POH SR20 apresenta os procedimentos de emergência?",
+      "en": "Which SR20 POH section contains emergency procedures?"
+    },
+    "a": [
+      "Section 2",
+      "Section 3",
+      "Section 5",
+      "Section 7"
+    ],
+    "correct": 1,
+    "ex": {
+      "pt": "O índice do POH identifica a Seção 3 como Emergency Procedures.",
+      "en": "The POH contents identify Section 3 as Emergency Procedures."
+    },
+    "ref": "SR20 POH, Foreword p. ii (PDF p. 4), P/N 11934-003"
+  },
+  {
+    "model": "SR20",
+    "q": {
+      "pt": "Qual seção do POH SR20 contém dados de desempenho?",
+      "en": "Which SR20 POH section contains performance data?"
+    },
+    "a": [
+      "Section 3",
+      "Section 4",
+      "Section 5",
+      "Section 9"
+    ],
+    "correct": 2,
+    "ex": {
+      "pt": "O índice do POH identifica a Seção 5 como Performance Data.",
+      "en": "The POH contents identify Section 5 as Performance Data."
+    },
+    "ref": "SR20 POH, Foreword p. ii (PDF p. 4), P/N 11934-003"
+  }
+]

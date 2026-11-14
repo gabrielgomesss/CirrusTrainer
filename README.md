@@ -1,13 +1,12 @@
-# FlightDeck Academy — Render / GitHub
+# FlightDeck Academy — Banco ampliado e aleatorização
+
+115 perguntas e 7 exercícios de ordenação. Questões embaralhadas sem repetição até terminar o conjunto selecionado, alternativas embaralhadas, revisão de erros e filtros por aeronave.
+
+**Limites:** Não representa estudo integral dos 13 documentos. Perguntas novas foram extraídas de trechos verificáveis dos checklists MC01 PS-DZA/PS-DZB (página 2) e Ground School (página 2). As perguntas legadas foram preservadas e precisam de revisão técnica antes de uso como treinamento aeronáutico. A tradução inglesa das perguntas adicionadas ainda não foi revisada (texto em português).
 
 ## Deploy
-1. Crie um repositório **privado** no GitHub.
-2. Envie o conteúdo extraído deste ZIP para a raiz (incluindo a pasta `documents/`).
-3. No Render: New → Blueprint → selecione o repositório. Alternativamente, Static Site → Build Command `echo ready`, Publish Directory `.`.
-4. Abra a URL HTTPS no celular e escolha Instalar/Adicionar à tela inicial.
+Substitua os arquivos no repositório GitHub e execute `git add . && git commit -m "Amplia questoes e aleatoriza simulados" && git pull origin main --rebase && git push origin main`.
 
-## Importante
-- Esta versão incorpora 13 PDFs e mantém 5 questões iniciais e um exercício parcial de ordenação. **Não** há ainda questionários completos para todos os documentos.
-- Os PDFs são acessíveis por URL no Render Static Site: **um repositório privado NÃO torna o site privado**. Antes de publicar, confirme os direitos de hospedagem/distribuição dos materiais. Para uso privado real, é necessário controle de acesso e armazenamento privado, não um site estático público.
-- PDFs podem ser lidos e baixados online. Para leitura offline, baixe-os no dispositivo; o service worker **não** faz cache automático dos PDFs.
-- Não usar para voo; verificar manual, suplementos, matrícula e revisão aplicáveis.
+**Direitos:** PDFs incluídos tornam-se públicos em Render Static Site, mesmo com repositório privado. Não publique sem autorização.
+
+Somente estudo em solo. Não substitui POH/AFM/checklists aplicáveis.

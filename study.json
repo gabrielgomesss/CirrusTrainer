@@ -1,0 +1,2329 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Rotação normal com flaps 50%?",
+        "en": "Normal rotation, flaps 50%?"
+      },
+      "answer": "70 KIAS",
+      "options": [
+        "70 KIAS",
+        "78 KIAS",
+        "80 KIAS",
+        "90 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q2",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Rotação para livrar obstáculos com flaps 50%?",
+        "en": "Obstacle clearance rotation, flaps 50%?"
+      },
+      "answer": "78 KIAS",
+      "options": [
+        "78 KIAS",
+        "70 KIAS",
+        "85 KIAS",
+        "95 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q3",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Subida normal em rota com flaps recolhidos?",
+        "en": "Normal enroute climb, flaps up?"
+      },
+      "answer": "110–120 KIAS",
+      "options": [
+        "110–120 KIAS",
+        "90–95 KIAS",
+        "80–85 KIAS",
+        "100–105 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q4",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Melhor razão de subida ao nível do mar?",
+        "en": "Best rate of climb at sea level?"
+      },
+      "answer": "101 KIAS",
+      "options": [
+        "101 KIAS",
+        "78 KIAS",
+        "95 KIAS",
+        "110 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q5",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Melhor razão de subida a 10.000 pés?",
+        "en": "Best rate of climb at 10,000 ft?"
+      },
+      "answer": "95 KIAS",
+      "options": [
+        "95 KIAS",
+        "101 KIAS",
+        "82 KIAS",
+        "78 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q6",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Melhor ângulo de subida ao nível do mar?",
+        "en": "Best angle of climb at sea level?"
+      },
+      "answer": "78 KIAS",
+      "options": [
+        "78 KIAS",
+        "82 KIAS",
+        "95 KIAS",
+        "101 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q7",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Melhor ângulo de subida a 10.000 pés?",
+        "en": "Best angle of climb at 10,000 ft?"
+      },
+      "answer": "82 KIAS",
+      "options": [
+        "82 KIAS",
+        "78 KIAS",
+        "95 KIAS",
+        "101 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q8",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Aproximação normal com flaps UP?",
+        "en": "Normal approach, flaps up?"
+      },
+      "answer": "90–95 KIAS",
+      "options": [
+        "90–95 KIAS",
+        "80–85 KIAS",
+        "85–90 KIAS",
+        "77 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q9",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Aproximação normal com flaps 50%?",
+        "en": "Normal approach, flaps 50%?"
+      },
+      "answer": "85–90 KIAS",
+      "options": [
+        "85–90 KIAS",
+        "90–95 KIAS",
+        "80–85 KIAS",
+        "77 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q10",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Aproximação normal com flaps 100%?",
+        "en": "Normal approach, flaps 100%?"
+      },
+      "answer": "80–85 KIAS",
+      "options": [
+        "80–85 KIAS",
+        "90–95 KIAS",
+        "85–90 KIAS",
+        "77 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q11",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Aproximação de pista curta, flaps 100% (VREF)?",
+        "en": "Short field, flaps 100% (VREF)?"
+      },
+      "answer": "77 KIAS",
+      "options": [
+        "77 KIAS",
+        "70 KIAS",
+        "85 KIAS",
+        "95 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q12",
+      "model": "SR22",
+      "category": "Velocidades",
+      "q": {
+        "pt": "Arremetida com flaps 50%, potência total?",
+        "en": "Go-around with flaps 50%, full power?"
+      },
+      "answer": "80 KIAS",
+      "options": [
+        "80 KIAS",
+        "77 KIAS",
+        "90 KIAS",
+        "101 KIAS"
+      ],
+      "ref": "SR22 G1/G2 Pilot Checklist · N-2",
+      "page": 5,
+      "doc": 1
+    },
+    {
+      "id": "q13",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade Vx?",
+        "en": "Vx speed?"
+      },
+      "answer": "55 kt",
+      "options": [
+        "55 kt",
+        "65 kt",
+        "72 kt",
+        "88 kt"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q14",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade Vy?",
+        "en": "Vy speed?"
+      },
+      "answer": "65 kt",
+      "options": [
+        "65 kt",
+        "55 kt",
+        "72 kt",
+        "88 kt"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q15",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade de melhor planeio?",
+        "en": "Best glide speed?"
+      },
+      "answer": "72 kt",
+      "options": [
+        "72 kt",
+        "55 kt",
+        "65 kt",
+        "88 kt"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q16",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade Vne?",
+        "en": "Vne speed?"
+      },
+      "answer": "117 kt",
+      "options": [
+        "117 kt",
+        "107 kt",
+        "88 kt",
+        "78 kt"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q17",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade Va?",
+        "en": "Va speed?"
+      },
+      "answer": "88 kt",
+      "options": [
+        "88 kt",
+        "78 kt",
+        "107 kt",
+        "117 kt"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q18",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade de estol clean (Vs)?",
+        "en": "Clean stall speed (Vs)?"
+      },
+      "answer": "45 kt",
+      "options": [
+        "45 kt",
+        "39 kt",
+        "55 kt",
+        "65 kt"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q19",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade de estol landing (Vso)?",
+        "en": "Landing stall speed (Vso)?"
+      },
+      "answer": "39 kt",
+      "options": [
+        "39 kt",
+        "45 kt",
+        "55 kt",
+        "65 kt"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q20",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Limite superior do arco branco?",
+        "en": "Upper white arc limit?"
+      },
+      "answer": "78 kt",
+      "options": [
+        "78 kt",
+        "88 kt",
+        "107 kt",
+        "117 kt"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q21",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Rotação máxima contínua?",
+        "en": "Maximum continuous engine RPM?"
+      },
+      "answer": "5.500 RPM",
+      "options": [
+        "5.500 RPM",
+        "5.800 RPM",
+        "5.200 RPM",
+        "4.800 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q22",
+      "model": "MC01-DZA",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Rotação máxima de decolagem?",
+        "en": "Maximum takeoff engine RPM?"
+      },
+      "answer": "5.800 RPM",
+      "options": [
+        "5.800 RPM",
+        "5.500 RPM",
+        "5.200 RPM",
+        "4.800 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 7
+    },
+    {
+      "id": "q23",
+      "model": "MC01-DZA",
+      "category": "Emergência",
+      "q": {
+        "pt": "Em falha de motor em voo, qual velocidade consta no checklist?",
+        "en": "During engine failure in flight, which speed appears in the checklist?"
+      },
+      "answer": "72 kt",
+      "options": [
+        "72 kt",
+        "55 kt",
+        "65 kt",
+        "88 kt"
+      ],
+      "ref": "Checklist MC01 · Rev. 4 · Falha de motor em voo",
+      "page": 3,
+      "doc": 7
+    },
+    {
+      "id": "q24",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade Vx?",
+        "en": "Vx speed?"
+      },
+      "answer": "55 kt",
+      "options": [
+        "55 kt",
+        "65 kt",
+        "72 kt",
+        "88 kt"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q25",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade Vy?",
+        "en": "Vy speed?"
+      },
+      "answer": "65 kt",
+      "options": [
+        "65 kt",
+        "55 kt",
+        "72 kt",
+        "88 kt"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q26",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade de melhor planeio?",
+        "en": "Best glide speed?"
+      },
+      "answer": "72 kt",
+      "options": [
+        "72 kt",
+        "55 kt",
+        "65 kt",
+        "88 kt"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q27",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade Vne?",
+        "en": "Vne speed?"
+      },
+      "answer": "117 kt",
+      "options": [
+        "117 kt",
+        "107 kt",
+        "88 kt",
+        "78 kt"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q28",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade Va?",
+        "en": "Va speed?"
+      },
+      "answer": "88 kt",
+      "options": [
+        "88 kt",
+        "78 kt",
+        "107 kt",
+        "117 kt"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q29",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade de estol clean (Vs)?",
+        "en": "Clean stall speed (Vs)?"
+      },
+      "answer": "45 kt",
+      "options": [
+        "45 kt",
+        "39 kt",
+        "55 kt",
+        "65 kt"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q30",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Velocidade de estol landing (Vso)?",
+        "en": "Landing stall speed (Vso)?"
+      },
+      "answer": "39 kt",
+      "options": [
+        "39 kt",
+        "45 kt",
+        "55 kt",
+        "65 kt"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q31",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Limite superior do arco branco?",
+        "en": "Upper white arc limit?"
+      },
+      "answer": "78 kt",
+      "options": [
+        "78 kt",
+        "88 kt",
+        "107 kt",
+        "117 kt"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q32",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Rotação máxima contínua?",
+        "en": "Maximum continuous engine RPM?"
+      },
+      "answer": "5.500 RPM",
+      "options": [
+        "5.500 RPM",
+        "5.800 RPM",
+        "5.200 RPM",
+        "4.800 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q33",
+      "model": "MC01-DZB",
+      "category": "Velocidades e limites",
+      "q": {
+        "pt": "Rotação máxima de decolagem?",
+        "en": "Maximum takeoff engine RPM?"
+      },
+      "answer": "5.800 RPM",
+      "options": [
+        "5.800 RPM",
+        "5.500 RPM",
+        "5.200 RPM",
+        "4.800 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Rev. 4 · Velocidades operacionais",
+      "page": 1,
+      "doc": 8
+    },
+    {
+      "id": "q34",
+      "model": "MC01-DZB",
+      "category": "Emergência",
+      "q": {
+        "pt": "Em falha de motor em voo, qual velocidade consta no checklist?",
+        "en": "During engine failure in flight, which speed appears in the checklist?"
+      },
+      "answer": "72 kt",
+      "options": [
+        "72 kt",
+        "55 kt",
+        "65 kt",
+        "88 kt"
+      ],
+      "ref": "Checklist MC01 · Rev. 4 · Falha de motor em voo",
+      "page": 3,
+      "doc": 8
+    },
+    {
+      "id": "q35",
+      "model": "MC01-DZA",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual a envergadura do Montaer MC01?",
+        "en": "What is the MC01 wingspan?"
+      },
+      "answer": "8,30 m",
+      "options": [
+        "8,30 m",
+        "6,40 m",
+        "2,35 m",
+        "9,50 m"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q36",
+      "model": "MC01-DZB",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual a envergadura do Montaer MC01?",
+        "en": "What is the MC01 wingspan?"
+      },
+      "answer": "8,30 m",
+      "options": [
+        "8,30 m",
+        "6,40 m",
+        "2,35 m",
+        "9,50 m"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q37",
+      "model": "MC01-DZA",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual o comprimento do Montaer MC01?",
+        "en": "What is the MC01 length?"
+      },
+      "answer": "6,40 m",
+      "options": [
+        "6,40 m",
+        "8,30 m",
+        "2,35 m",
+        "7,40 m"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q38",
+      "model": "MC01-DZB",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual o comprimento do Montaer MC01?",
+        "en": "What is the MC01 length?"
+      },
+      "answer": "6,40 m",
+      "options": [
+        "6,40 m",
+        "8,30 m",
+        "2,35 m",
+        "7,40 m"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q39",
+      "model": "MC01-DZA",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual a altura do Montaer MC01?",
+        "en": "What is the MC01 height?"
+      },
+      "answer": "2,35 m",
+      "options": [
+        "2,35 m",
+        "6,40 m",
+        "8,30 m",
+        "3,50 m"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q40",
+      "model": "MC01-DZB",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual a altura do Montaer MC01?",
+        "en": "What is the MC01 height?"
+      },
+      "answer": "2,35 m",
+      "options": [
+        "2,35 m",
+        "6,40 m",
+        "8,30 m",
+        "3,50 m"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q41",
+      "model": "MC01-DZA",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual o PMD informado no Ground School?",
+        "en": "What is the MTOW listed in Ground School?"
+      },
+      "answer": "600 kg",
+      "options": [
+        "600 kg",
+        "550 kg",
+        "650 kg",
+        "750 kg"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q42",
+      "model": "MC01-DZB",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual o PMD informado no Ground School?",
+        "en": "What is the MTOW listed in Ground School?"
+      },
+      "answer": "600 kg",
+      "options": [
+        "600 kg",
+        "550 kg",
+        "650 kg",
+        "750 kg"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q43",
+      "model": "MC01-DZA",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Quantos assentos possui o MC01 segundo o Ground School?",
+        "en": "How many seats does MC01 have according to Ground School?"
+      },
+      "answer": "2",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q44",
+      "model": "MC01-DZB",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Quantos assentos possui o MC01 segundo o Ground School?",
+        "en": "How many seats does MC01 have according to Ground School?"
+      },
+      "answer": "2",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "ref": "EPEAC · Ground School MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "q45",
+      "model": "SR20",
+      "category": "FOM",
+      "q": {
+        "pt": "Qual documento tem autoridade final em caso de divergência com o FOM?",
+        "en": "Which document has final authority in case of a discrepancy with the FOM?"
+      },
+      "answer": "AFM",
+      "options": [
+        "AFM",
+        "FOM",
+        "Cockpit Reference Guide",
+        "Ground School"
+      ],
+      "ref": "Cirrus Perspective FOM · Note · February 2013",
+      "page": 2,
+      "doc": 2
+    },
+    {
+      "id": "q46",
+      "model": "SR20",
+      "category": "FOM",
+      "q": {
+        "pt": "Qual é a edição do FOM Cirrus Perspective fornecido?",
+        "en": "Which edition is the supplied Cirrus Perspective FOM?"
+      },
+      "answer": "February 2013",
+      "options": [
+        "February 2013",
+        "August 2007",
+        "January 2025",
+        "December 2023"
+      ],
+      "ref": "Cirrus Perspective FOM · Cover / Publication",
+      "page": 2,
+      "doc": 2
+    },
+    {
+      "id": "q47",
+      "model": "SR20",
+      "category": "Aviônicos",
+      "q": {
+        "pt": "Qual é a versão mínima do software indicada no Cockpit Reference Guide fornecido?",
+        "en": "What is the minimum system software version named in the supplied Cockpit Reference Guide?"
+      },
+      "answer": "0764.06",
+      "options": [
+        "0764.06",
+        "0763.01",
+        "0800.01",
+        "0604.01"
+      ],
+      "ref": "Garmin Cirrus Perspective Cockpit Reference Guide · Cover",
+      "page": 1,
+      "doc": 13
+    },
+    {
+      "id": "q48",
+      "model": "SR22",
+      "category": "FOM",
+      "q": {
+        "pt": "Qual documento tem autoridade final em caso de divergência com o FOM?",
+        "en": "Which document has final authority in case of a discrepancy with the FOM?"
+      },
+      "answer": "AFM",
+      "options": [
+        "AFM",
+        "FOM",
+        "Cockpit Reference Guide",
+        "Ground School"
+      ],
+      "ref": "Cirrus Perspective FOM · Note · February 2013",
+      "page": 2,
+      "doc": 2
+    },
+    {
+      "id": "q49",
+      "model": "SR22",
+      "category": "FOM",
+      "q": {
+        "pt": "Qual é a edição do FOM Cirrus Perspective fornecido?",
+        "en": "Which edition is the supplied Cirrus Perspective FOM?"
+      },
+      "answer": "February 2013",
+      "options": [
+        "February 2013",
+        "August 2007",
+        "January 2025",
+        "December 2023"
+      ],
+      "ref": "Cirrus Perspective FOM · Cover / Publication",
+      "page": 2,
+      "doc": 2
+    },
+    {
+      "id": "q50",
+      "model": "SR22",
+      "category": "Aviônicos",
+      "q": {
+        "pt": "Qual é a versão mínima do software indicada no Cockpit Reference Guide fornecido?",
+        "en": "What is the minimum system software version named in the supplied Cockpit Reference Guide?"
+      },
+      "answer": "0764.06",
+      "options": [
+        "0764.06",
+        "0763.01",
+        "0800.01",
+        "0604.01"
+      ],
+      "ref": "Garmin Cirrus Perspective Cockpit Reference Guide · Cover",
+      "page": 1,
+      "doc": 13
+    },
+    {
+      "id": "q51",
+      "model": "SR22T",
+      "category": "FOM",
+      "q": {
+        "pt": "Qual documento tem autoridade final em caso de divergência com o FOM?",
+        "en": "Which document has final authority in case of a discrepancy with the FOM?"
+      },
+      "answer": "AFM",
+      "options": [
+        "AFM",
+        "FOM",
+        "Cockpit Reference Guide",
+        "Ground School"
+      ],
+      "ref": "Cirrus Perspective FOM · Note · February 2013",
+      "page": 2,
+      "doc": 2
+    },
+    {
+      "id": "q52",
+      "model": "SR22T",
+      "category": "FOM",
+      "q": {
+        "pt": "Qual é a edição do FOM Cirrus Perspective fornecido?",
+        "en": "Which edition is the supplied Cirrus Perspective FOM?"
+      },
+      "answer": "February 2013",
+      "options": [
+        "February 2013",
+        "August 2007",
+        "January 2025",
+        "December 2023"
+      ],
+      "ref": "Cirrus Perspective FOM · Cover / Publication",
+      "page": 2,
+      "doc": 2
+    },
+    {
+      "id": "q53",
+      "model": "SR22T",
+      "category": "Aviônicos",
+      "q": {
+        "pt": "Qual é a versão mínima do software indicada no Cockpit Reference Guide fornecido?",
+        "en": "What is the minimum system software version named in the supplied Cockpit Reference Guide?"
+      },
+      "answer": "0764.06",
+      "options": [
+        "0764.06",
+        "0763.01",
+        "0800.01",
+        "0604.01"
+      ],
+      "ref": "Garmin Cirrus Perspective Cockpit Reference Guide · Cover",
+      "page": 1,
+      "doc": 13
+    },
+    {
+      "id": "q54",
+      "model": "SR20",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "A qual série de aeronaves se aplica o POH SR20 fornecido?",
+        "en": "Which serials does the supplied SR20 POH cover?"
+      },
+      "answer": "1268 e subsequentes",
+      "options": [
+        "1268 e subsequentes",
+        "1000 e anteriores",
+        "Somente 0435",
+        "Somente SR22T"
+      ],
+      "ref": "SR20 POH P/N 11934-003 · Cover",
+      "page": 1,
+      "doc": 12
+    },
+    {
+      "id": "q55",
+      "model": "SR22T",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual sistema de aviônicos consta no PIM SR22T de 2023?",
+        "en": "Which avionics system is listed in the 2023 SR22T PIM?"
+      },
+      "answer": "Perspective Touch+",
+      "options": [
+        "Perspective Touch+",
+        "Perspective+",
+        "Avidyne Entegra",
+        "G3X"
+      ],
+      "ref": "SR22T PIM P/N 44768-001 · Cover",
+      "page": 1,
+      "doc": 4
+    },
+    {
+      "id": "q56",
+      "model": "SR22T",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual sistema de aviônicos consta no AFM SR22T Brasil de 2020?",
+        "en": "Which avionics system is listed in the 2020 Brazil SR22T AFM?"
+      },
+      "answer": "Perspective+",
+      "options": [
+        "Perspective+",
+        "Perspective Touch+",
+        "G3X",
+        "Entegra"
+      ],
+      "ref": "SR22T AFM P/N 21400-007 · Cover",
+      "page": 1,
+      "doc": 5
+    },
+    {
+      "id": "q57",
+      "model": "SR22T",
+      "category": "Conhecimentos gerais",
+      "q": {
+        "pt": "Qual motor é descrito no AFM SR22T Brasil de 2020?",
+        "en": "Which engine type is described in the 2020 Brazil SR22T AFM?"
+      },
+      "answer": "Continental turbocharged",
+      "options": [
+        "Continental turbocharged",
+        "Rotax 912",
+        "Lycoming O-320",
+        "Continental normally aspirated"
+      ],
+      "ref": "SR22T AFM P/N 21400-007 · Cover",
+      "page": 1,
+      "doc": 5
+    },
+    {
+      "id": "expert1",
+      "model": "MC01-DZA",
+      "category": "Partida",
+      "q": {
+        "pt": "Qual é a rotação do motor indicada após a partida?",
+        "en": "Qual é a rotação do motor indicada após a partida? (source in Portuguese)"
+      },
+      "answer": "2.000–2.500 RPM",
+      "options": [
+        "2.000–2.500 RPM",
+        "1.000 RPM",
+        "3.500 RPM",
+        "4.000 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert2",
+      "model": "MC01-DZA",
+      "category": "Partida",
+      "q": {
+        "pt": "Por quanto tempo a bomba elétrica deve ser acionada na partida?",
+        "en": "Por quanto tempo a bomba elétrica deve ser acionada na partida? (source in Portuguese)"
+      },
+      "answer": "3 a 5 segundos",
+      "options": [
+        "3 a 5 segundos",
+        "10 a 15 segundos",
+        "30 segundos",
+        "1 minuto"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert3",
+      "model": "MC01-DZA",
+      "category": "Partida",
+      "q": {
+        "pt": "Qual o avanço inicial da manete de potência indicado na partida?",
+        "en": "Qual o avanço inicial da manete de potência indicado na partida? (source in Portuguese)"
+      },
+      "answer": "½ cm",
+      "options": [
+        "½ cm",
+        "5 cm",
+        "Toda aberta",
+        "Toda reduzida"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert4",
+      "model": "MC01-DZA",
+      "category": "Partida",
+      "q": {
+        "pt": "Qual condição da pressão do óleo é esperada após a partida?",
+        "en": "Qual condição da pressão do óleo é esperada após a partida? (source in Portuguese)"
+      },
+      "answer": "Faixa verde",
+      "options": [
+        "Faixa verde",
+        "Faixa vermelha",
+        "Zero",
+        "Acima do limite máximo"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert5",
+      "model": "MC01-DZA",
+      "category": "Após decolagem",
+      "q": {
+        "pt": "Em qual altura está indicada a retração dos flapes?",
+        "en": "Em qual altura está indicada a retração dos flapes? (source in Portuguese)"
+      },
+      "answer": "400 ft AGL",
+      "options": [
+        "400 ft AGL",
+        "100 ft AGL",
+        "1.000 ft AGL",
+        "2.000 ft AGL"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert6",
+      "model": "MC01-DZA",
+      "category": "Após decolagem",
+      "q": {
+        "pt": "Em qual altura está indicado desligar a bomba elétrica?",
+        "en": "Em qual altura está indicado desligar a bomba elétrica? (source in Portuguese)"
+      },
+      "answer": "500 ft AGL",
+      "options": [
+        "500 ft AGL",
+        "100 ft AGL",
+        "1.000 ft AGL",
+        "2.000 ft AGL"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert7",
+      "model": "MC01-DZA",
+      "category": "Cruzeiro",
+      "q": {
+        "pt": "Qual a faixa de rotação indicada para cruzeiro?",
+        "en": "Qual a faixa de rotação indicada para cruzeiro? (source in Portuguese)"
+      },
+      "answer": "4.800–5.200 RPM",
+      "options": [
+        "4.800–5.200 RPM",
+        "2.000–2.500 RPM",
+        "3.000–3.500 RPM",
+        "5.800–6.200 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert8",
+      "model": "MC01-DZA",
+      "category": "Cruzeiro",
+      "q": {
+        "pt": "Qual intervalo de monitoramento/troca de tanque aparece no checklist de cruzeiro?",
+        "en": "Qual intervalo de monitoramento/troca de tanque aparece no checklist de cruzeiro? (source in Portuguese)"
+      },
+      "answer": "A cada 30 minutos",
+      "options": [
+        "A cada 30 minutos",
+        "A cada 5 minutos",
+        "A cada 2 horas",
+        "Somente no pouso"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert9",
+      "model": "MC01-DZA",
+      "category": "Antes do pouso",
+      "q": {
+        "pt": "Qual configuração de flapes é indicada na perna do vento?",
+        "en": "Qual configuração de flapes é indicada na perna do vento? (source in Portuguese)"
+      },
+      "answer": "Flap 12° (1)",
+      "options": [
+        "Flap 12° (1)",
+        "Flap 0°",
+        "Flap 34°",
+        "Flap 50°"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert10",
+      "model": "MC01-DZA",
+      "category": "Antes do pouso",
+      "q": {
+        "pt": "Qual configuração e velocidade aparecem para a final?",
+        "en": "Qual configuração e velocidade aparecem para a final? (source in Portuguese)"
+      },
+      "answer": "Flap 34° — 55 kt",
+      "options": [
+        "Flap 34° — 55 kt",
+        "Flap 0° — 90 kt",
+        "Flap 12° — 100 kt",
+        "Flap 50° — 80 kt"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert11",
+      "model": "MC01-DZA",
+      "category": "Antes do pouso",
+      "q": {
+        "pt": "Como deve estar o piloto automático no checklist antes do pouso?",
+        "en": "Como deve estar o piloto automático no checklist antes do pouso? (source in Portuguese)"
+      },
+      "answer": "Desligado",
+      "options": [
+        "Desligado",
+        "Ligado",
+        "Em modo NAV",
+        "Em modo ALT"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert12",
+      "model": "MC01-DZA",
+      "category": "Após pouso",
+      "q": {
+        "pt": "Qual a posição dos flapes após o pouso?",
+        "en": "Qual a posição dos flapes após o pouso? (source in Portuguese)"
+      },
+      "answer": "UP",
+      "options": [
+        "UP",
+        "FULL",
+        "12°",
+        "34°"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert13",
+      "model": "MC01-DZA",
+      "category": "Após pouso",
+      "q": {
+        "pt": "Como fica a bomba elétrica após o pouso?",
+        "en": "Como fica a bomba elétrica após o pouso? (source in Portuguese)"
+      },
+      "answer": "Desligada",
+      "options": [
+        "Desligada",
+        "Ligada",
+        "Em AUTO",
+        "Em TEST"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert14",
+      "model": "MC01-DZA",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual temperatura mínima do óleo é indicada no ponto de espera?",
+        "en": "Qual temperatura mínima do óleo é indicada no ponto de espera? (source in Portuguese)"
+      },
+      "answer": "≥ 50 °C",
+      "options": [
+        "≥ 50 °C",
+        "≥ 20 °C",
+        "≥ 90 °C",
+        "≥ 120 °C"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert15",
+      "model": "MC01-DZA",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual rotação é indicada para a verificação no ponto de espera?",
+        "en": "Qual rotação é indicada para a verificação no ponto de espera? (source in Portuguese)"
+      },
+      "answer": "4.000 RPM",
+      "options": [
+        "4.000 RPM",
+        "1.000 RPM",
+        "2.500 RPM",
+        "5.800 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert16",
+      "model": "MC01-DZA",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual é a queda máxima de RPM indicada para cada magneto?",
+        "en": "Qual é a queda máxima de RPM indicada para cada magneto? (source in Portuguese)"
+      },
+      "answer": "300 RPM",
+      "options": [
+        "300 RPM",
+        "50 RPM",
+        "600 RPM",
+        "1.000 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert17",
+      "model": "MC01-DZA",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual é o diferencial máximo indicado entre os magnetos?",
+        "en": "Qual é o diferencial máximo indicado entre os magnetos? (source in Portuguese)"
+      },
+      "answer": "125 RPM",
+      "options": [
+        "125 RPM",
+        "25 RPM",
+        "300 RPM",
+        "500 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert18",
+      "model": "MC01-DZA",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual faixa de marcha lenta aparece no checklist?",
+        "en": "Qual faixa de marcha lenta aparece no checklist? (source in Portuguese)"
+      },
+      "answer": "1.700–2.000 RPM",
+      "options": [
+        "1.700–2.000 RPM",
+        "500–800 RPM",
+        "2.800–3.200 RPM",
+        "4.000–4.500 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert19",
+      "model": "MC01-DZA",
+      "category": "Antes decolagem",
+      "q": {
+        "pt": "Qual deve ser o estado da bomba elétrica antes da decolagem?",
+        "en": "Qual deve ser o estado da bomba elétrica antes da decolagem? (source in Portuguese)"
+      },
+      "answer": "Ligada",
+      "options": [
+        "Ligada",
+        "Desligada",
+        "Em teste",
+        "Em espera"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert20",
+      "model": "MC01-DZA",
+      "category": "Antes decolagem",
+      "q": {
+        "pt": "Qual deve ser o estado do farol de pouso antes da decolagem?",
+        "en": "Qual deve ser o estado do farol de pouso antes da decolagem? (source in Portuguese)"
+      },
+      "answer": "Ligado",
+      "options": [
+        "Ligado",
+        "Desligado",
+        "Piscando",
+        "Somente em emergência"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert21",
+      "model": "MC01-DZA",
+      "category": "Antes decolagem",
+      "q": {
+        "pt": "Como deve estar o freio de estacionamento antes da decolagem?",
+        "en": "Como deve estar o freio de estacionamento antes da decolagem? (source in Portuguese)"
+      },
+      "answer": "Liberado",
+      "options": [
+        "Liberado",
+        "Aplicado",
+        "Travado",
+        "Em teste"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert22",
+      "model": "MC01-DZA",
+      "category": "Após decolagem",
+      "q": {
+        "pt": "Qual potência máxima indicada aparece no checklist após a decolagem?",
+        "en": "Qual potência máxima indicada aparece no checklist após a decolagem? (source in Portuguese)"
+      },
+      "answer": "5.500 RPM",
+      "options": [
+        "5.500 RPM",
+        "2.000 RPM",
+        "3.000 RPM",
+        "6.500 RPM"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 7
+    },
+    {
+      "id": "expert23",
+      "model": "MC01-DZB",
+      "category": "Partida",
+      "q": {
+        "pt": "Qual é a rotação do motor indicada após a partida?",
+        "en": "Qual é a rotação do motor indicada após a partida? (source in Portuguese)"
+      },
+      "answer": "2.000–2.500 RPM",
+      "options": [
+        "2.000–2.500 RPM",
+        "1.000 RPM",
+        "3.500 RPM",
+        "4.000 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert24",
+      "model": "MC01-DZB",
+      "category": "Partida",
+      "q": {
+        "pt": "Por quanto tempo a bomba elétrica deve ser acionada na partida?",
+        "en": "Por quanto tempo a bomba elétrica deve ser acionada na partida? (source in Portuguese)"
+      },
+      "answer": "3 a 5 segundos",
+      "options": [
+        "3 a 5 segundos",
+        "10 a 15 segundos",
+        "30 segundos",
+        "1 minuto"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert25",
+      "model": "MC01-DZB",
+      "category": "Partida",
+      "q": {
+        "pt": "Qual o avanço inicial da manete de potência indicado na partida?",
+        "en": "Qual o avanço inicial da manete de potência indicado na partida? (source in Portuguese)"
+      },
+      "answer": "½ cm",
+      "options": [
+        "½ cm",
+        "5 cm",
+        "Toda aberta",
+        "Toda reduzida"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert26",
+      "model": "MC01-DZB",
+      "category": "Partida",
+      "q": {
+        "pt": "Qual condição da pressão do óleo é esperada após a partida?",
+        "en": "Qual condição da pressão do óleo é esperada após a partida? (source in Portuguese)"
+      },
+      "answer": "Faixa verde",
+      "options": [
+        "Faixa verde",
+        "Faixa vermelha",
+        "Zero",
+        "Acima do limite máximo"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert27",
+      "model": "MC01-DZB",
+      "category": "Após decolagem",
+      "q": {
+        "pt": "Em qual altura está indicada a retração dos flapes?",
+        "en": "Em qual altura está indicada a retração dos flapes? (source in Portuguese)"
+      },
+      "answer": "400 ft AGL",
+      "options": [
+        "400 ft AGL",
+        "100 ft AGL",
+        "1.000 ft AGL",
+        "2.000 ft AGL"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert28",
+      "model": "MC01-DZB",
+      "category": "Após decolagem",
+      "q": {
+        "pt": "Em qual altura está indicado desligar a bomba elétrica?",
+        "en": "Em qual altura está indicado desligar a bomba elétrica? (source in Portuguese)"
+      },
+      "answer": "500 ft AGL",
+      "options": [
+        "500 ft AGL",
+        "100 ft AGL",
+        "1.000 ft AGL",
+        "2.000 ft AGL"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert29",
+      "model": "MC01-DZB",
+      "category": "Cruzeiro",
+      "q": {
+        "pt": "Qual a faixa de rotação indicada para cruzeiro?",
+        "en": "Qual a faixa de rotação indicada para cruzeiro? (source in Portuguese)"
+      },
+      "answer": "4.800–5.200 RPM",
+      "options": [
+        "4.800–5.200 RPM",
+        "2.000–2.500 RPM",
+        "3.000–3.500 RPM",
+        "5.800–6.200 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert30",
+      "model": "MC01-DZB",
+      "category": "Cruzeiro",
+      "q": {
+        "pt": "Qual intervalo de monitoramento/troca de tanque aparece no checklist de cruzeiro?",
+        "en": "Qual intervalo de monitoramento/troca de tanque aparece no checklist de cruzeiro? (source in Portuguese)"
+      },
+      "answer": "A cada 30 minutos",
+      "options": [
+        "A cada 30 minutos",
+        "A cada 5 minutos",
+        "A cada 2 horas",
+        "Somente no pouso"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert31",
+      "model": "MC01-DZB",
+      "category": "Antes do pouso",
+      "q": {
+        "pt": "Qual configuração de flapes é indicada na perna do vento?",
+        "en": "Qual configuração de flapes é indicada na perna do vento? (source in Portuguese)"
+      },
+      "answer": "Flap 12° (1)",
+      "options": [
+        "Flap 12° (1)",
+        "Flap 0°",
+        "Flap 34°",
+        "Flap 50°"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert32",
+      "model": "MC01-DZB",
+      "category": "Antes do pouso",
+      "q": {
+        "pt": "Qual configuração e velocidade aparecem para a final?",
+        "en": "Qual configuração e velocidade aparecem para a final? (source in Portuguese)"
+      },
+      "answer": "Flap 34° — 55 kt",
+      "options": [
+        "Flap 34° — 55 kt",
+        "Flap 0° — 90 kt",
+        "Flap 12° — 100 kt",
+        "Flap 50° — 80 kt"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert33",
+      "model": "MC01-DZB",
+      "category": "Antes do pouso",
+      "q": {
+        "pt": "Como deve estar o piloto automático no checklist antes do pouso?",
+        "en": "Como deve estar o piloto automático no checklist antes do pouso? (source in Portuguese)"
+      },
+      "answer": "Desligado",
+      "options": [
+        "Desligado",
+        "Ligado",
+        "Em modo NAV",
+        "Em modo ALT"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert34",
+      "model": "MC01-DZB",
+      "category": "Após pouso",
+      "q": {
+        "pt": "Qual a posição dos flapes após o pouso?",
+        "en": "Qual a posição dos flapes após o pouso? (source in Portuguese)"
+      },
+      "answer": "UP",
+      "options": [
+        "UP",
+        "FULL",
+        "12°",
+        "34°"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert35",
+      "model": "MC01-DZB",
+      "category": "Após pouso",
+      "q": {
+        "pt": "Como fica a bomba elétrica após o pouso?",
+        "en": "Como fica a bomba elétrica após o pouso? (source in Portuguese)"
+      },
+      "answer": "Desligada",
+      "options": [
+        "Desligada",
+        "Ligada",
+        "Em AUTO",
+        "Em TEST"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert36",
+      "model": "MC01-DZB",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual temperatura mínima do óleo é indicada no ponto de espera?",
+        "en": "Qual temperatura mínima do óleo é indicada no ponto de espera? (source in Portuguese)"
+      },
+      "answer": "≥ 50 °C",
+      "options": [
+        "≥ 50 °C",
+        "≥ 20 °C",
+        "≥ 90 °C",
+        "≥ 120 °C"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert37",
+      "model": "MC01-DZB",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual rotação é indicada para a verificação no ponto de espera?",
+        "en": "Qual rotação é indicada para a verificação no ponto de espera? (source in Portuguese)"
+      },
+      "answer": "4.000 RPM",
+      "options": [
+        "4.000 RPM",
+        "1.000 RPM",
+        "2.500 RPM",
+        "5.800 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert38",
+      "model": "MC01-DZB",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual é a queda máxima de RPM indicada para cada magneto?",
+        "en": "Qual é a queda máxima de RPM indicada para cada magneto? (source in Portuguese)"
+      },
+      "answer": "300 RPM",
+      "options": [
+        "300 RPM",
+        "50 RPM",
+        "600 RPM",
+        "1.000 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert39",
+      "model": "MC01-DZB",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual é o diferencial máximo indicado entre os magnetos?",
+        "en": "Qual é o diferencial máximo indicado entre os magnetos? (source in Portuguese)"
+      },
+      "answer": "125 RPM",
+      "options": [
+        "125 RPM",
+        "25 RPM",
+        "300 RPM",
+        "500 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert40",
+      "model": "MC01-DZB",
+      "category": "Ponto de espera",
+      "q": {
+        "pt": "Qual faixa de marcha lenta aparece no checklist?",
+        "en": "Qual faixa de marcha lenta aparece no checklist? (source in Portuguese)"
+      },
+      "answer": "1.700–2.000 RPM",
+      "options": [
+        "1.700–2.000 RPM",
+        "500–800 RPM",
+        "2.800–3.200 RPM",
+        "4.000–4.500 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert41",
+      "model": "MC01-DZB",
+      "category": "Antes decolagem",
+      "q": {
+        "pt": "Qual deve ser o estado da bomba elétrica antes da decolagem?",
+        "en": "Qual deve ser o estado da bomba elétrica antes da decolagem? (source in Portuguese)"
+      },
+      "answer": "Ligada",
+      "options": [
+        "Ligada",
+        "Desligada",
+        "Em teste",
+        "Em espera"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert42",
+      "model": "MC01-DZB",
+      "category": "Antes decolagem",
+      "q": {
+        "pt": "Qual deve ser o estado do farol de pouso antes da decolagem?",
+        "en": "Qual deve ser o estado do farol de pouso antes da decolagem? (source in Portuguese)"
+      },
+      "answer": "Ligado",
+      "options": [
+        "Ligado",
+        "Desligado",
+        "Piscando",
+        "Somente em emergência"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert43",
+      "model": "MC01-DZB",
+      "category": "Antes decolagem",
+      "q": {
+        "pt": "Como deve estar o freio de estacionamento antes da decolagem?",
+        "en": "Como deve estar o freio de estacionamento antes da decolagem? (source in Portuguese)"
+      },
+      "answer": "Liberado",
+      "options": [
+        "Liberado",
+        "Aplicado",
+        "Travado",
+        "Em teste"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert44",
+      "model": "MC01-DZB",
+      "category": "Após decolagem",
+      "q": {
+        "pt": "Qual potência máxima indicada aparece no checklist após a decolagem?",
+        "en": "Qual potência máxima indicada aparece no checklist após a decolagem? (source in Portuguese)"
+      },
+      "answer": "5.500 RPM",
+      "options": [
+        "5.500 RPM",
+        "2.000 RPM",
+        "3.000 RPM",
+        "6.500 RPM"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4 · procedimentos normais",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert45",
+      "model": "MC01-DZA",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é a quantidade de assentos descrita no Ground School do MC01?",
+        "en": "Qual é a quantidade de assentos descrita no Ground School do MC01? (source in Portuguese)"
+      },
+      "answer": "2",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert46",
+      "model": "MC01-DZA",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é a envergadura do MC01 no Ground School?",
+        "en": "Qual é a envergadura do MC01 no Ground School? (source in Portuguese)"
+      },
+      "answer": "8,30 m",
+      "options": [
+        "8,30 m",
+        "6,40 m",
+        "9,80 m",
+        "12,00 m"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert47",
+      "model": "MC01-DZA",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é o comprimento do MC01 no Ground School?",
+        "en": "Qual é o comprimento do MC01 no Ground School? (source in Portuguese)"
+      },
+      "answer": "6,40 m",
+      "options": [
+        "6,40 m",
+        "8,30 m",
+        "2,35 m",
+        "10,40 m"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert48",
+      "model": "MC01-DZA",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é a altura do MC01 no Ground School?",
+        "en": "Qual é a altura do MC01 no Ground School? (source in Portuguese)"
+      },
+      "answer": "2,35 m",
+      "options": [
+        "2,35 m",
+        "1,10 m",
+        "6,40 m",
+        "8,30 m"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert49",
+      "model": "MC01-DZA",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é o peso máximo de decolagem (PMD) informado no Ground School?",
+        "en": "Qual é o peso máximo de decolagem (PMD) informado no Ground School? (source in Portuguese)"
+      },
+      "answer": "600 kg",
+      "options": [
+        "600 kg",
+        "450 kg",
+        "750 kg",
+        "1.000 kg"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert50",
+      "model": "MC01-DZA",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é a posição da asa descrita no Ground School?",
+        "en": "Qual é a posição da asa descrita no Ground School? (source in Portuguese)"
+      },
+      "answer": "Asa alta",
+      "options": [
+        "Asa alta",
+        "Asa baixa",
+        "Asa média",
+        "Biplano"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert51",
+      "model": "MC01-DZB",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é a quantidade de assentos descrita no Ground School do MC01?",
+        "en": "Qual é a quantidade de assentos descrita no Ground School do MC01? (source in Portuguese)"
+      },
+      "answer": "2",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert52",
+      "model": "MC01-DZB",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é a envergadura do MC01 no Ground School?",
+        "en": "Qual é a envergadura do MC01 no Ground School? (source in Portuguese)"
+      },
+      "answer": "8,30 m",
+      "options": [
+        "8,30 m",
+        "6,40 m",
+        "9,80 m",
+        "12,00 m"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert53",
+      "model": "MC01-DZB",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é o comprimento do MC01 no Ground School?",
+        "en": "Qual é o comprimento do MC01 no Ground School? (source in Portuguese)"
+      },
+      "answer": "6,40 m",
+      "options": [
+        "6,40 m",
+        "8,30 m",
+        "2,35 m",
+        "10,40 m"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert54",
+      "model": "MC01-DZB",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é a altura do MC01 no Ground School?",
+        "en": "Qual é a altura do MC01 no Ground School? (source in Portuguese)"
+      },
+      "answer": "2,35 m",
+      "options": [
+        "2,35 m",
+        "1,10 m",
+        "6,40 m",
+        "8,30 m"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert55",
+      "model": "MC01-DZB",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é o peso máximo de decolagem (PMD) informado no Ground School?",
+        "en": "Qual é o peso máximo de decolagem (PMD) informado no Ground School? (source in Portuguese)"
+      },
+      "answer": "600 kg",
+      "options": [
+        "600 kg",
+        "450 kg",
+        "750 kg",
+        "1.000 kg"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert56",
+      "model": "MC01-DZB",
+      "category": "Configuração",
+      "q": {
+        "pt": "Qual é a posição da asa descrita no Ground School?",
+        "en": "Qual é a posição da asa descrita no Ground School? (source in Portuguese)"
+      },
+      "answer": "Asa alta",
+      "options": [
+        "Asa alta",
+        "Asa baixa",
+        "Asa média",
+        "Biplano"
+      ],
+      "ref": "Ground School Montaer MC01 · Especificações gerais",
+      "page": 2,
+      "doc": 9
+    },
+    {
+      "id": "expert57",
+      "model": "MC01-DZB",
+      "category": "Antes do acionamento",
+      "q": {
+        "pt": "Qual sistema de backup aparece explicitamente no checklist antes do acionamento?",
+        "en": "Qual sistema de backup aparece explicitamente no checklist antes do acionamento? (source in Portuguese)"
+      },
+      "answer": "BACK UP SWITCH",
+      "options": [
+        "BACK UP SWITCH",
+        "CAPS",
+        "TKS",
+        "FADEC"
+      ],
+      "ref": "Checklist PS-DZB · Mar/2026 · Rev.4",
+      "page": 2,
+      "doc": 8
+    },
+    {
+      "id": "expert58",
+      "model": "MC01-DZA",
+      "category": "Antes do acionamento",
+      "q": {
+        "pt": "Qual a condição dos aviônicos imediatamente antes da partida no checklist?",
+        "en": "Qual a condição dos aviônicos imediatamente antes da partida no checklist? (source in Portuguese)"
+      },
+      "answer": "Desligados",
+      "options": [
+        "Desligados",
+        "Ligados",
+        "Em NAV",
+        "Em TEST"
+      ],
+      "ref": "Checklist PS-DZA · Mar/2026 · Rev.4",
+      "page": 2,
+      "doc": 7
+    }
+  ],
+  "orders": [
+    {
+      "id": "o1",
+      "model": "SR22",
+      "category": "Normal",
+      "title": "Preflight Inspection — Cabin (trecho inicial)",
+      "steps": [
+        "Required Documents — On Board",
+        "Avionics Power Switch — OFF",
+        "Bat 2 Master Switch — ON",
+        "PFD (applicable serials) — Verify On",
+        "Avionics Cooling Fan — Audible",
+        "Voltmeter — 23–25 Volts",
+        "Flap Position Light — OUT",
+        "Bat 1 Master Switch — ON",
+        "Lights — Check Operation",
+        "Stall Warning — Test",
+        "Fuel Quantity — Check",
+        "Fuel Selector — Select Fullest Tank",
+        "Flaps — 100%, Check Light ON",
+        "Oil Annunciator — On",
+        "Bat 1 and 2 Master Switches — OFF"
+      ],
+      "doc": 1,
+      "page": 6,
+      "ref": "SR22 G1/G2 Pilot Checklist · N-3 · applicability depends on serial"
+    },
+    {
+      "id": "o2",
+      "model": "MC01-DZA",
+      "category": "Normal",
+      "title": "Pré-voo — Check interno (cabine)",
+      "steps": [
+        "MANCHE — LIVRE / DESTRAVADO",
+        "MANETE DE POTÊNCIA — TODA REDUZIDA",
+        "MAGNETOS A e B — DESLIGADOS",
+        "EQUIPAMENTOS ELÉTRICOS — DESLIGADOS",
+        "CHAVE MASTER — ON",
+        "FLAPS — BAIXADOS (FULL)",
+        "CHAVE MASTER — OFF / CHAVES FORA",
+        "SELETORA — LIVRE / ABERTA",
+        "DOCUMENTOS / PESO & BALANCEAMENTO — A BORDO",
+        "EXTINTOR DE INCÊNDIO — FIXAÇÃO / VALIDADE"
+      ],
+      "doc": 7,
+      "page": 1,
+      "ref": "Checklist MC01 · Rev. 4 · Pré-voo · Check interno"
+    },
+    {
+      "id": "o3",
+      "model": "MC01-DZA",
+      "category": "Normal",
+      "title": "Antes da decolagem",
+      "steps": [
+        "FLAPS — VERIFICAR",
+        "BOMBA ELÉTRICA — LIGADA",
+        "FAROL DE POUSO — LIGADO",
+        "STROBE — LIGADO",
+        "TRANSPONDER — VERIFICAR CÓDIGO",
+        "FREIO DE ESTACIONAMENTO — LIBERAR"
+      ],
+      "doc": 7,
+      "page": 2,
+      "ref": "Checklist MC01 · Rev. 4 · Procedimentos normais"
+    },
+    {
+      "id": "o4",
+      "model": "MC01-DZA",
+      "category": "Emergência",
+      "title": "Falha de motor em voo — trecho de memória",
+      "steps": [
+        "ATITUDE / VELOCIDADE — 72 KTS",
+        "MANETE DE POTÊNCIA — TODA REDUZIDA",
+        "AFOGADOR — RECOLHIDO",
+        "SELETORA — ABERTA / MUDAR TANQUE",
+        "BOMBA ELÉTRICA — LIGADA",
+        "MAGNETOS A e B — LIGADOS",
+        "IGNIÇÃO — TENTAR REACIONAMENTO"
+      ],
+      "doc": 7,
+      "page": 3,
+      "ref": "Checklist MC01 · Rev. 4 · Falha de motor em voo · trecho para estudo"
+    },
+    {
+      "id": "o5",
+      "model": "MC01-DZB",
+      "category": "Normal",
+      "title": "Pré-voo — Check interno (cabine)",
+      "steps": [
+        "MANCHE — LIVRE / DESTRAVADO",
+        "MANETE DE POTÊNCIA — TODA REDUZIDA",
+        "MAGNETOS A e B — DESLIGADOS",
+        "EQUIPAMENTOS ELÉTRICOS — DESLIGADOS",
+        "CHAVE MASTER — ON",
+        "FLAPS — BAIXADOS (FULL)",
+        "CHAVE MASTER — OFF / CHAVES FORA",
+        "SELETORA — LIVRE / ABERTA",
+        "DOCUMENTOS / PESO & BALANCEAMENTO — A BORDO",
+        "EXTINTOR DE INCÊNDIO — FIXAÇÃO / VALIDADE"
+      ],
+      "doc": 8,
+      "page": 1,
+      "ref": "Checklist MC01 · Rev. 4 · Pré-voo · Check interno"
+    },
+    {
+      "id": "o6",
+      "model": "MC01-DZB",
+      "category": "Normal",
+      "title": "Antes da decolagem",
+      "steps": [
+        "FLAPS — VERIFICAR",
+        "BOMBA ELÉTRICA — LIGADA",
+        "FAROL DE POUSO — LIGADO",
+        "STROBE — LIGADO",
+        "TRANSPONDER — VERIFICAR CÓDIGO",
+        "FREIO DE ESTACIONAMENTO — LIBERAR"
+      ],
+      "doc": 8,
+      "page": 2,
+      "ref": "Checklist MC01 · Rev. 4 · Procedimentos normais"
+    },
+    {
+      "id": "o7",
+      "model": "MC01-DZB",
+      "category": "Emergência",
+      "title": "Falha de motor em voo — trecho de memória",
+      "steps": [
+        "ATITUDE / VELOCIDADE — 72 KTS",
+        "MANETE DE POTÊNCIA — TODA REDUZIDA",
+        "AFOGADOR — RECOLHIDO",
+        "SELETORA — ABERTA / MUDAR TANQUE",
+        "BOMBA ELÉTRICA — LIGADA",
+        "MAGNETOS A e B — LIGADOS",
+        "IGNIÇÃO — TENTAR REACIONAMENTO"
+      ],
+      "doc": 8,
+      "page": 3,
+      "ref": "Checklist MC01 · Rev. 4 · Falha de motor em voo · trecho para estudo"
+    }
+  ]
+}
